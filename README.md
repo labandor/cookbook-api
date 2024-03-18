@@ -1,5 +1,5 @@
 
-# Master Chef's Kiss
+# Lord of the Chefs API
 
 This is an API created with the idea of creating a site to be able to find recipes for those days where you lack inspiration. A space for people to share their creations and leave feedback of their own experiences. Cooking can be hard. Why not make it just that little bit easier.
 
