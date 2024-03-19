@@ -1,5 +1,5 @@
 import db from "../db/connection.js";
-import data from "./thai.json" assert { type: "json" };
+import data from "./vietnamese.json" assert { type: "json" };
 
 import Recipe from "../models/Recipe.js";
 
@@ -15,6 +15,7 @@ let mexicanData = data.map((item) => {
   mexican.title = item.title;
   mexican.includeIngredients = item.ingredients;
   mexican.insturctionsRequired = item.instructions;
+  mexican.cuisines = item.cuisines
 
   mexican.summary = item.summary;
   //   turkish.sourceUrl = item.source
