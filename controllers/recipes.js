@@ -10,4 +10,49 @@ export const getRecipies = async (req, res) => {
   }
 };
 
-export const getRecipe = async (req, res) => {};
+export const getRecipe = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const recipe = await Recipe.findById(id);
+
+    if (recipe) {
+      return res.json(recipe);
+    }
+
+    res.status(404).json({ message: "Recipe not found!" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export const createRecipe = async (req, res) => {
+  try {
+    const product = new Product(req.body);
+    await product.save();
+    res.status(201).json(product);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export const updateRecipe = async (req, res) => {
+  const { id } = req.params;
+  const product = await Product.findByIdAndUpdate(id, req.body, { new: true });
+  res.status(200).json(product);
+};
+
+export const deleteRecipe = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const deleted = await Product.findByIdAndDelete(id);
+    if (deleted) {
+      return res.status(200).send("Recipe deleted");
+    }
+    throw new Error("Recipe not found");
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+};
