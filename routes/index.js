@@ -6,7 +6,7 @@ const router = Router();
 
 router.get("/", (req, res) => res.send("This is the api root!"));
 
-router.use("/", usersRoutes);
+router.use("/auth", usersRoutes);
 router.use("/", recipesRoutes);
 
 export default router;
