@@ -1,0 +1,2211 @@
+[
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 86,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 100.84,
+      "id": 652078,
+      "title": "Miso Soup With Thin Noodles",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/BYJ4Q2M5/miso-soup-with-thin-noodles",
+      "image": "https://spoonacular.com/recipeImages/652078-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Miso Soup With Thin Noodles could be just the <b>dairy free, lacto ovo vegetarian, and vegan</b> recipe you've been looking for. One portion of this dish contains around <b>5g of protein</b>, <b>2g of fat</b>, and a total of <b>114 calories</b>. For <b>$1.01 per serving</b>, you get a hor d'oeuvre that serves 8. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. It is brought to you by Foodista. It is a <b>reasonably priced</b> recipe for fans of Japanese food. 1 person found this recipe to be flavorful and satisfying. A mixture of thai kitchen rice noodles, spinach, baby carrots, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/a-quick-and-easy-soup-miso-soup-with-soba-noodles-or-mung-bean-31003\">A Quick And Easy Soup {miso Soup With Soba Noodles Or Mung Bean</a>, <a href=\"https://spoonacular.com/recipes/soba-noodles-with-miso-broth-37466\">Soba Noodles with Miso Broth</a>, and <a href=\"https://spoonacular.com/recipes/ginger-miso-noodles-with-eggplant-446340\">ginger miso noodles with eggplant</a> for similar recipes.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": [
+        "soup",
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": ["dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": ["fall", "winter"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "After the miso has been prepared, start adding the \"stuff\" to the soup pot. It can be your preference, but I opted to start with the onions and chives and then added the zucchini, parsnip, carrots, mushrooms and ginger. Cover the pot and let cook on a low flame for 20-30 minutes, tasting as you go.",
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                },
+                {
+                  "id": 11298,
+                  "name": "parsnip",
+                  "localizedName": "parsnip",
+                  "image": "parsnip.jpg"
+                },
+                {
+                  "id": 11156,
+                  "name": "chives",
+                  "localizedName": "chives",
+                  "image": "fresh-chives.jpg"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 16112,
+                  "name": "miso",
+                  "localizedName": "miso",
+                  "image": "miso.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 30, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Add the tofu and pasta, allowing the pasta to cook for 8-10 minutes. Taste the soup, adding red pepper and turn off flame when ready.",
+              "ingredients": [
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                },
+                {
+                  "id": 16213,
+                  "name": "tofu",
+                  "localizedName": "tofu",
+                  "image": "tofu.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Place spinach on the bottom of your soup bowl. You can also place the spinach directly in the pot, but since it wilts so quickly I usually do it this way.",
+              "ingredients": [
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "What do you usually add to your Miso Soup?",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "miso soup",
+                  "localizedName": "miso soup",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Seriously Soupy Serena",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 92.77767944335938,
+      "spoonacularSourceUrl": "https://spoonacular.com/miso-soup-with-thin-noodles-652078"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 11,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 76,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 620.99,
+      "id": 648506,
+      "title": "Japanese Sushi",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "https://www.foodista.com/recipe/ZHC2WBHW/japanese-sushi",
+      "image": "https://spoonacular.com/recipeImages/648506-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>gluten free, dairy free, and pescatarian</b> recipes to your recipe box, Japanese Sushi might be a recipe you should try. This recipe makes 1 servings with <b>571 calories</b>, <b>70g of protein</b>, and <b>13g of fat</b> each. For <b>$6.21 per serving</b>, this recipe <b>covers 36%</b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. A mixture of japanese sticky rice, salmon caviar, wasabi, and a handful of other ingredients are all it takes to make this recipe so flavorful. 1 person has tried and liked this recipe. It works well as a pricey hor d'oeuvre. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. This recipe is typical of Japanese cuisine. With a spoonacular <b>score of 85%</b>, this dish is excellent. Similar recipes include <a href=\"https://spoonacular.com/recipes/chirashi-sushi-cake-and-temari-sushi-540672\">Chirashi Sushi Cake and Temari Sushi</a>, <a href=\"https://spoonacular.com/recipes/deconstructed-sushi-chirashi-sushi-509386\">Deconstructed Sushi (Chirashi Sushi)</a>, and <a href=\"https://spoonacular.com/recipes/sushi-pizza-87760\">Sushi Pizza</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": [
+        "lunch",
+        "antipasti",
+        "main course",
+        "starter",
+        "snack",
+        "appetizer",
+        "main dish",
+        "antipasto",
+        "dinner",
+        "hor d'oeuvre"
+      ],
+      "diets": ["gluten free", "dairy free", "pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "Recipe one",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Pour cooked rice into a tray. Finely slice the salmon and the tuna.",
+              "ingredients": [
+                {
+                  "id": 10220445,
+                  "name": "cooked rice",
+                  "localizedName": "cooked rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 15076,
+                  "name": "salmon",
+                  "localizedName": "salmon",
+                  "image": "salmon.png"
+                },
+                {
+                  "id": 10015121,
+                  "name": "tuna",
+                  "localizedName": "tuna",
+                  "image": "canned-tuna.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Put the seaweed onto a sushi mat and press rice down onto it.",
+              "ingredients": [
+                {
+                  "id": 11445,
+                  "name": "seaweed",
+                  "localizedName": "seaweed",
+                  "image": "kombu.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Slice the mushrooms and asparagus pieces and lay along the rice.",
+              "ingredients": [
+                {
+                  "id": 11011,
+                  "name": "asparagus",
+                  "localizedName": "asparagus",
+                  "image": "asparagus.png"
+                },
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Add the wasabi.",
+              "ingredients": [
+                {
+                  "id": 11990,
+                  "name": "wasabi",
+                  "localizedName": "wasabi",
+                  "image": "wasabi.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Roll the sushi and cut into slices.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Serve with salmon caviar, wasabi and soy.",
+              "ingredients": [
+                {
+                  "id": 15072,
+                  "name": "salmon caviar",
+                  "localizedName": "salmon caviar",
+                  "image": "salmon-caviar.png"
+                },
+                {
+                  "id": 11990,
+                  "name": "wasabi",
+                  "localizedName": "wasabi",
+                  "image": "wasabi.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Recipe two: Squeeze the rice into balls and press the prawns, tuna or salmon into the top.",
+              "ingredients": [
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 15076,
+                  "name": "salmon",
+                  "localizedName": "salmon",
+                  "image": "salmon.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 10015121,
+                  "name": "tuna",
+                  "localizedName": "tuna",
+                  "image": "canned-tuna.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 87.9012680053711,
+      "spoonacularSourceUrl": "https://spoonacular.com/japanese-sushi-648506"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 17,
+      "gaps": "no",
+      "preparationMinutes": 5,
+      "cookingMinutes": 15,
+      "aggregateLikes": 0,
+      "healthScore": 64,
+      "creditsText": "maplewoodroad",
+      "sourceName": "maplewoodroad.com",
+      "pricePerServing": 119.73,
+      "id": 1697543,
+      "title": "Ground Pork Ramen",
+      "author": "maplewoodroad",
+      "readyInMinutes": 20,
+      "servings": 4,
+      "sourceUrl": "https://maplewoodroad.com/ground-pork-ramen/",
+      "image": "https://spoonacular.com/recipeImages/1697543-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Ground Pork Ramen requires roughly <b>20 minutes</b> from start to finish. One serving contains <b>548 calories</b>, <b>27g of protein</b>, and <b>34g of fat</b>. This gluten free and dairy free recipe serves 4 and costs <b>$1.2 per serving</b>. It is brought to you by spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a>. If you have soy sauce, vegetable oil, ground pork, and a few other ingredients on hand, you can make it. It works well as a reasonably priced main course. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/ground-beef-teriyaki-ramen-1018568\">Ground Beef Teriyaki Ramen</a>, <a href=\"https://spoonacular.com/recipes/10-easy-ground-pork-ground-pork-tacos-1684877\">10+ Easy Ground Pork : Ground Pork Tacos</a>, and <a href=\"https://spoonacular.com/recipes/ground-turkey-or-ground-pork-burgers-1218515\">Ground Turkey or Ground Pork Burgers</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "While you’re chopping your veggies and collecting the other ingredients, cook ramen noodles (without using the seasoning packet). Before you drain them, scoop out about half a cup of the water and set aside. This liquid will become part of the sauce. ",
+              "ingredients": [
+                {
+                  "id": 1032027,
+                  "name": "seasoning mix",
+                  "localizedName": "seasoning mix",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 6583,
+                  "name": "ramen noodles",
+                  "localizedName": "ramen noodles",
+                  "image": "ramen.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Drain the noodles and rinse in cold water, so they’ll stop cooking. Cooked ramen should be springy but not spongy. ",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 6583,
+                  "name": "ramen noodles",
+                  "localizedName": "ramen noodles",
+                  "image": "ramen.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Heat a tablespoon of vegetable oil over high heat in a sauté pan and brown the ground pork. Use a wooden spoon to break apart any clumps. Do not season the meat with salt and pepper. ",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 4669,
+                  "name": "vegetable oil",
+                  "localizedName": "vegetable oil",
+                  "image": "vegetable-oil.jpg"
+                },
+                {
+                  "id": 10219,
+                  "name": "ground pork",
+                  "localizedName": "ground pork",
+                  "image": "meat-ground.jpg"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404732,
+                  "name": "wooden spoon",
+                  "localizedName": "wooden spoon",
+                  "image": "wooden-spoon.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Cook the pork until it’s browned or even let it cook until it’s crisp, your preference. ",
+              "ingredients": [
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "After about 8 minutes, the pork should have nicely browned and can be removed from the pan. ",
+              "ingredients": [
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 8, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Add another tablespoon of vegetable oil to the same pan and sauté the celery and/or any other vegetable you’re using for about two minutes.",
+              "ingredients": [
+                {
+                  "id": 4669,
+                  "name": "vegetable oil",
+                  "localizedName": "vegetable oil",
+                  "image": "vegetable-oil.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 11143,
+                  "name": "celery",
+                  "localizedName": "celery",
+                  "image": "celery.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 2, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "Add garlic for another 30 seconds. ",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Add reserved pasta water to the pan and stir in three tablespoons of oyster and soy sauce each. ",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 16124,
+                  "name": "soy sauce",
+                  "localizedName": "soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 15167,
+                  "name": "oysters",
+                  "localizedName": "oysters",
+                  "image": "oysters.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 9,
+              "step": "Use a wooden spoon to scrape off the burnt pork bits (the best stuff) from the bottom of the pan. ",
+              "ingredients": [
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404732,
+                  "name": "wooden spoon",
+                  "localizedName": "wooden spoon",
+                  "image": "wooden-spoon.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 10,
+              "step": "Add the pork back into the pan and then add the noodles.",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "Finally, add some heat like hot sauce, chili paste, sriracha, hot pepper flakes, etc, and mix everything well. ",
+              "ingredients": [
+                {
+                  "id": 6973,
+                  "name": "chili paste",
+                  "localizedName": "chili paste",
+                  "image": "chili-paste.png"
+                },
+                {
+                  "id": 11819,
+                  "name": "chili pepper",
+                  "localizedName": "chili pepper",
+                  "image": "red-chili.jpg"
+                },
+                {
+                  "id": 6168,
+                  "name": "hot sauce",
+                  "localizedName": "hot sauce",
+                  "image": "hot-sauce-or-tabasco.png"
+                },
+                {
+                  "id": 1016168,
+                  "name": "sriracha",
+                  "localizedName": "sriracha",
+                  "image": "hot-sauce-or-tabasco.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 12,
+              "step": "Sprinkle with some chopped cilantro, garnish with lime wedges, and serve. I love to squeeze some lime juice over everything. It gives the dish a light, refreshing touch that mingles nicely with the spiciness and the umami flavor provided by the oyster and soy sauces. ",
+              "ingredients": [
+                {
+                  "id": 1029159,
+                  "name": "lime wedge",
+                  "localizedName": "lime wedge",
+                  "image": "lime-wedge.jpg"
+                },
+                {
+                  "id": 9160,
+                  "name": "lime juice",
+                  "localizedName": "lime juice",
+                  "image": "lime-juice.png"
+                },
+                {
+                  "id": 11165,
+                  "name": "cilantro",
+                  "localizedName": "cilantro",
+                  "image": "cilantro.png"
+                },
+                {
+                  "id": 15167,
+                  "name": "oysters",
+                  "localizedName": "oysters",
+                  "image": "oysters.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 86.21012115478516,
+      "spoonacularSourceUrl": "https://spoonacular.com/ground-pork-ramen-1697543"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 5,
+      "healthScore": 41,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 332.75,
+      "id": 634710,
+      "title": "Beef Teriyaki Stir Fry",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/WCTVNX24/beef-teriyaki-stir-fry",
+      "image": "https://spoonacular.com/recipeImages/634710-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>gluten free and dairy free</b> recipes to your repertoire, Beef Teriyaki Stir Fry might be a recipe you should try. One portion of this dish contains roughly <b>33g of protein</b>, <b>21g of fat</b>, and a total of <b>414 calories</b>. This recipe serves 2 and costs $3.33 per serving. A mixture of mushrooms, sesame oil, garlic, and a handful of other ingredients are all it takes to make this recipe so flavorful. 5 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe is typical of Japanese cuisine. It works well as a pretty expensive main course. It is brought to you by Foodista. With a spoonacular <b>score of 85%</b>, this dish is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/teriyaki-beef-stir-fry-145873\">Teriyaki Beef Stir-Fry</a>, <a href=\"https://spoonacular.com/recipes/teriyaki-beef-stir-fry-1245147\">Teriyaki Beef Stir-Fry</a>, and <a href=\"https://spoonacular.com/recipes/teriyaki-beef-stir-fry-397718\">Teriyaki Beef Stir-Fry</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Whisk ingredients together in a small bowl and refrigerate for at least 30 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": { "number": 30, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Heat oil in a large frying pan over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add beef and saut for 3-4 minutes just to brown it on all sides.",
+              "ingredients": [
+                {
+                  "id": 23572,
+                  "name": "beef",
+                  "localizedName": "beef",
+                  "image": "beef-cubes-raw.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 4, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Remove from pan and set aside.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Add vegetables and saut for 5 minutes more, until beginning to soften.Stir in teriyaki sauce and allow mixture to come to a simmer.",
+              "ingredients": [
+                {
+                  "id": 6112,
+                  "name": "teriyaki sauce",
+                  "localizedName": "teriyaki sauce",
+                  "image": "dark-sauce.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Add beef and any drippings that have accumulated on the plate. Cook for 5 minutes, stirring occasionally.In a small bowl, combine cornstarch with 2 tsp cold water to dissolve. Stir into the pan of beef and vegetables. Allow the mixture to simmer and thicken for 2 minutes. Toss to evenly coat vegetables and beef in teriyaki sauce.",
+              "ingredients": [
+                {
+                  "id": 6112,
+                  "name": "teriyaki sauce",
+                  "localizedName": "teriyaki sauce",
+                  "image": "dark-sauce.jpg"
+                },
+                {
+                  "id": 20027,
+                  "name": "corn starch",
+                  "localizedName": "corn starch",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 23572,
+                  "name": "beef",
+                  "localizedName": "beef",
+                  "image": "beef-cubes-raw.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 7, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "Serve.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 86.12870025634766,
+      "spoonacularSourceUrl": "https://spoonacular.com/beef-teriyaki-stir-fry-634710"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 14,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 36,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 268.59,
+      "id": 1095955,
+      "title": "Instant Pot Pork Tenderloin Teriyaki",
+      "readyInMinutes": 40,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/QKLKXBFH/instant-pot-pork-tenderloin-teriyaki",
+      "image": "https://spoonacular.com/recipeImages/1095955-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many main course recipes, so give Instant Pot Pork Tenderloin Teriyaki a try. This recipe serves 6. Watching your figure? This gluten free and dairy free recipe has <b>538 calories</b>, <b>43g of protein</b>, and <b>14g of fat</b> per serving. For <b>$2.69 per serving</b>, this recipe <b>covers 36%</b> of your daily requirements of vitamins and minerals. 1 person has tried and liked this recipe. From preparation to the plate, this recipe takes about <b>40 minutes</b>. Head to the store and pick up canolan oil, sesame seeds, amounts of salt and pepper, and a few other things to make it today. Only a few people really liked this Japanese dish. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 77%</b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/instant-pot-pork-tenderloin-1180769\">Instant Pot Pork Tenderloin</a>, <a href=\"https://spoonacular.com/recipes/instant-pot-pork-tenderloin-recipe-1151190\">Instant Pot Pork Tenderloin Recipe</a>, and <a href=\"https://spoonacular.com/recipes/easy-instant-pot-pork-tenderloin-1116449\">Easy Instant Pot Pork Tenderloin</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Turn your Instant Pot to saute and put the oil in the bottom. Once the pan is hot, add the tenderloins (cut in half lengthwise) and lightly brown.Once you are finished browning the meat, lay the roasts down in the cooker and pour the teriyaki sauce over the top. If using a particularly thick kind make sure to thin it out a bit with some water so it doesn't burn to the bottom.Close and seal the lid and set the pot to manual and 20 minutes of cook time.Allow the pot to release pressure naturally, and then remove the lid and slice the meat.",
+              "ingredients": [
+                {
+                  "id": 6112,
+                  "name": "teriyaki sauce",
+                  "localizedName": "teriyaki sauce",
+                  "image": "dark-sauce.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 414093,
+                  "name": "instant pot",
+                  "localizedName": "instant pot",
+                  "image": ""
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 20, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Serve with jasmine rice and steamed broccoli.",
+              "ingredients": [
+                {
+                  "id": 10120444,
+                  "name": "jasmine rice",
+                  "localizedName": "jasmine rice",
+                  "image": "rice-jasmine-cooked.jpg"
+                },
+                {
+                  "id": 11090,
+                  "name": "broccoli",
+                  "localizedName": "broccoli",
+                  "image": "broccoli.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Garnish with toasted sesame seeds and chopped green onions.",
+              "ingredients": [
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 12023,
+                  "name": "sesame seeds",
+                  "localizedName": "sesame seeds",
+                  "image": "sesame-seeds.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 78.6932144165039,
+      "spoonacularSourceUrl": "https://spoonacular.com/instant-pot-pork-tenderloin-teriyaki-1095955"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 19,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 36,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 326.57,
+      "id": 637908,
+      "title": "Chicken and Miso Ramen Noodle Soup",
+      "readyInMinutes": 30,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/LSGT2GRK/chicken-and-miso-ramen-noodle-soup",
+      "image": "https://spoonacular.com/recipeImages/637908-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Chicken and Miso Ramen Noodle Soup is ready <b>in about 30 minutes</b> and is definitely an excellent <b>dairy free</b> option for lovers of Japanese food. This recipe makes 2 servings with <b>727 calories</b>, <b>46g of protein</b>, and <b>18g of fat</b> each. For <b>$3.27 per serving</b>, this recipe <b>covers 37%</b> of your daily requirements of vitamins and minerals. It works well as a rather expensive main course for <b>Autumn</b>. 1 person has made this recipe and would make it again. This recipe from Foodista requires sesame seeds, chicken breast, hardboiled eggs, and spring onion. All things considered, we decided this recipe <b>deserves a spoonacular score of 74%</b>. This score is pretty good. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/ramen-chicken-noodle-soup-822463\">Ramen Chicken Noodle Soup</a>, <a href=\"https://spoonacular.com/recipes/ramen-chicken-noodle-soup-1274333\">Ramen Chicken Noodle Soup</a>, and <a href=\"https://spoonacular.com/recipes/cooking-school-miso-ramen-with-miso-glazed-chicken-enoki-and-shimeji-mushrooms-629499\">Cooking School: Miso Ramen with Miso Glazed Chicken, Enoki and Shimeji Mushrooms</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "soup", "main course", "main dish", "dinner"],
+      "diets": ["dairy free"],
+      "occasions": ["fall", "winter"],
+      "analyzedInstructions": [
+        {
+          "name": "Hard boil the eggs for about 12 minutes then cool in ice water. Then reserve at room temperature.Grill or saute the chicken for about 8 minutes each side or until internal temperature is 155-160*F. Then reserve in a warming oven with the bowls.Wash, dry and cut the vegetables to size while the cooking is going on.Soup",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Pour the chicken stock into a suitable pot.",
+              "ingredients": [
+                {
+                  "id": 6172,
+                  "name": "chicken stock",
+                  "localizedName": "chicken stock",
+                  "image": "chicken-broth.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add the miso and sliced ginger and stir to mix while bringing to a simmer.Simmer for 10 minutes, stirring occasionally.",
+              "ingredients": [
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 16112,
+                  "name": "miso",
+                  "localizedName": "miso",
+                  "image": "miso.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Place the fresh angel hair pasta noodles in the bottom of the bowls uncooked; then while the soup is still hot, pour it over the noodles to a depth that just covers them.Arrange the chicken and vegetables carefully on top of the noodles or beside the noodles so that everything is level with the top of the soup and the arrangement is attractive.Carefully slide the nori into the edge of the soup only partially submerging it.",
+              "ingredients": [
+                {
+                  "id": 10020420,
+                  "name": "angel hair pasta",
+                  "localizedName": "angel hair pasta",
+                  "image": "angelhair.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 11446,
+                  "name": "nori",
+                  "localizedName": "nori",
+                  "image": "nori.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Sprinkle the sesame seeds on top if desired and serve with soy or tamari sauce.",
+              "ingredients": [
+                {
+                  "id": 12023,
+                  "name": "sesame seeds",
+                  "localizedName": "sesame seeds",
+                  "image": "sesame-seeds.png"
+                },
+                {
+                  "id": 10116124,
+                  "name": "tamari",
+                  "localizedName": "tamari",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 73.63041687011719,
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-and-miso-ramen-noodle-soup-637908"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 18,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 3,
+      "healthScore": 26,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 211.22,
+      "id": 648460,
+      "title": "Japanese Chicken Donburi",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/7F3H56GP/japanese-chicken-donburi",
+      "image": "https://spoonacular.com/recipeImages/648460-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Japanese Chicken Donburi requires about <b>45 minutes</b> from start to finish. This recipe makes 4 servings with <b>626 calories</b>, <b>25g of protein</b>, and <b>19g of fat</b> each. For <b>$2.11 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. 3 people have made this recipe and would make it again. It works well as a main course. It is a <b>rather cheap</b> recipe for fans of Japanese food. Head to the store and pick up baby spinach leaves, salad oil, rice, and a few other things to make it today. It is a good option if you're following a <b>gluten free and dairy free</b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 75%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/japanese-chicken-donburi-1380559\">Japanese Chicken Donburi</a>, <a href=\"https://spoonacular.com/recipes/chicken-and-egg-donburi-1337217\">Chicken and Egg Donburi</a>, and <a href=\"https://spoonacular.com/recipes/chicken-and-egg-donburi-963296\">Chicken and Egg Donburi</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a deep 10-inch or 12-inch frying pan over high heat, stir oil, onion, and ginger until onion is lightly browned, about 2 minutes.",
+              "ingredients": [
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 2, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Add broth, soy sauce, and sugar.",
+              "ingredients": [
+                {
+                  "id": 16124,
+                  "name": "soy sauce",
+                  "localizedName": "soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Add chicken to pan. Bring to a boil.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add spinach, cover, and cook until wilted, about 1 minute. Meanwhile, in a small bowl, beat eggs to blend.Reduce heat to low, evenly distribute mixture in pan, and pour in eggs. With a spatula, push vegetables aside slightly so egg mixture can flow down through sauce. Cover and cook just until eggs are softly set, 2 to 2 1/2 minutes.Meanwhile, spoon rice into bowls. Top equally with egg-spinach mixture, including juices.",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404642,
+                  "name": "spatula",
+                  "localizedName": "spatula",
+                  "image": "spatula-or-turner.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Sprinkle with tomato.",
+              "ingredients": [
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 73.05773162841797,
+      "spoonacularSourceUrl": "https://spoonacular.com/japanese-chicken-donburi-648460"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 9,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 26,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 443.06,
+      "id": 660493,
+      "title": "Soba Noodle In Kombu Dashi With Teriyaki Salmon",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "https://www.foodista.com/recipe/W7PR76HM/soba-noodle-in-kombu-dashi-with-teriyaki-salmon",
+      "image": "https://spoonacular.com/recipeImages/660493-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many main course recipes, so give Soba Noodle In Kombu Dashi With Teriyaki Salmon a try. This dairy free and pescatarian recipe serves 2 and costs <b>$4.43 per serving</b>. One serving contains <b>363 calories</b>, <b>35g of protein</b>, and <b>18g of fat</b>. This recipe from Foodista requires salmon filet/loin, vegetable oil, soya sauce, and goji berries. This recipe is typical of Japanese cuisine. 1 person were glad they tried this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%</b>, which is solid. Try <a href=\"https://spoonacular.com/recipes/dashi-with-soba-noodles-22656\">Dashi With Soba Noodles</a>, <a href=\"https://spoonacular.com/recipes/salmon-and-soba-noodle-salad-497033\">Salmon and Soba Noodle Salad</a>, and <a href=\"https://spoonacular.com/recipes/soba-noodle-salad-with-salmon-and-asparagus-38173\">Soba Noodle Salad With Salmon And Asparagus</a> for similar recipes.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": ["dairy free", "pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "To make kombu dashi, soak the dried kelp/seaweed in water for 2 hours.",
+              "ingredients": [
+                {
+                  "id": 11445,
+                  "name": "seaweed",
+                  "localizedName": "seaweed",
+                  "image": "kombu.jpg"
+                },
+                {
+                  "id": 1006963,
+                  "name": "dashi",
+                  "localizedName": "dashi",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 11445,
+                  "name": "kombu",
+                  "localizedName": "kombu",
+                  "image": "kombu.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 11445,
+                  "name": "kelp",
+                  "localizedName": "kelp",
+                  "image": "kombu.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 120, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Put the kombu and water in a cooking pot. Put on medium heat. Turn off the heat when the water comes to a boil. Then, remove the kombu with a strainer. The remaining liquid is your kombu dashi. You can leave some kombu in the soup.",
+              "ingredients": [
+                {
+                  "id": 1006963,
+                  "name": "dashi",
+                  "localizedName": "dashi",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 11445,
+                  "name": "kombu",
+                  "localizedName": "kombu",
+                  "image": "kombu.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405600,
+                  "name": "sieve",
+                  "localizedName": "sieve",
+                  "image": "strainer.png"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Cook the soba noodles according to the packet.",
+              "ingredients": [
+                {
+                  "id": 20114,
+                  "name": "soba noodles",
+                  "localizedName": "soba noodles",
+                  "image": "uncooked-soba-noodles.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Drain and set aside.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "To make teriyaki salmon, marinate salmon filet/loin with sake, soya sauce, mirin, and sugar.",
+              "ingredients": [
+                {
+                  "id": 10115076,
+                  "name": "salmon fillets",
+                  "localizedName": "salmon fillets",
+                  "image": "salmon.png"
+                },
+                {
+                  "id": 16124,
+                  "name": "soy sauce",
+                  "localizedName": "soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 15076,
+                  "name": "salmon",
+                  "localizedName": "salmon",
+                  "image": "salmon.png"
+                },
+                {
+                  "id": 93830,
+                  "name": "mirin",
+                  "localizedName": "mirin",
+                  "image": "mirin.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 43479,
+                  "name": "sake",
+                  "localizedName": "sake",
+                  "image": "sake.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Heat up a pan with oil.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Put the skin side down and cook for 3 minutes or until crispy. Turn and cook the other side for another 2-3 minutes.",
+              "ingredients": [],
+              "equipment": [],
+              "length": { "number": 6, "unit": "minutes" }
+            },
+            {
+              "number": 8,
+              "step": "Pour any remaining sauce.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Remove from heat.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Drizzle any remaining sauce from the frying pan.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "To serve the soba, heat up the broth. In a bowl, serve good portion of Soba noodles. Lardle good amount of kombu dashi over the noodles.",
+              "ingredients": [
+                {
+                  "id": 20114,
+                  "name": "soba noodles",
+                  "localizedName": "soba noodles",
+                  "image": "uncooked-soba-noodles.png"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 1006963,
+                  "name": "dashi",
+                  "localizedName": "dashi",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 11445,
+                  "name": "kombu",
+                  "localizedName": "kombu",
+                  "image": "kombu.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "step": "Garnish with goji berries if desired.",
+              "ingredients": [
+                {
+                  "id": 98863,
+                  "name": "goji berries",
+                  "localizedName": "goji berries",
+                  "image": "goji-berries.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 13,
+              "step": "Place the teriyaki salmon on top of the noodles.",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 15076,
+                  "name": "salmon",
+                  "localizedName": "salmon",
+                  "image": "salmon.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 14,
+              "step": "Sprinkle with some toasted sesame seeds.",
+              "ingredients": [
+                {
+                  "id": 12023,
+                  "name": "sesame seeds",
+                  "localizedName": "sesame seeds",
+                  "image": "sesame-seeds.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 71.15463256835938,
+      "spoonacularSourceUrl": "https://spoonacular.com/soba-noodle-in-kombu-dashi-with-teriyaki-salmon-660493"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 3,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 23,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 135.38,
+      "id": 648500,
+      "title": "Japanese Steak Salad",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/48CSHJT8/japanese-steak-salad",
+      "image": "https://spoonacular.com/recipeImages/648500-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Japanese Steak Salad might be just the <b>Japanese</b> recipe you are searching for. This main course has <b>148 calories</b>, <b>15g of protein</b>, and <b>4g of fat</b> per serving. This gluten free and dairy free recipe serves 8 and costs <b>$1.35 per serving</b>. 1 person were impressed by this recipe. This recipe from Foodista requires water, sugar, hoisin sauce, and pea pods. It can be enjoyed any time, but it is especially good for <b>valentin day</b>. From preparation to the plate, this recipe takes around <b>45 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 68%</b>. <a href=\"https://spoonacular.com/recipes/japanese-steak-salad-395900\">Japanese Steak Salad</a>, <a href=\"https://spoonacular.com/recipes/japanese-steak-salad-1326789\">Japanese Steak Salad</a>, and <a href=\"https://spoonacular.com/recipes/japanese-steakhouse-ginger-salad-dressing-copycat-shogun-steak-94890\">Japanese Steakhouse Ginger Salad Dressing CopyCat Shogun Steak</a> are very similar to this recipe.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "salad",
+        "main dish",
+        "dinner"
+      ],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": ["valentine's day", "father's day"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Prepare Sesame Marinade and Dressing.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 12023,
+                  "name": "sesame seeds",
+                  "localizedName": "sesame seeds",
+                  "image": "sesame-seeds.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Place beef top sirloin steak in plastic bag; add reserved marinade, turning to coat. Close bag securely and marinate in refrigerator 2 hours, turning once.",
+              "ingredients": [
+                {
+                  "id": 23584,
+                  "name": "top sirloin steak",
+                  "localizedName": "top sirloin steak",
+                  "image": "top-sirloin-steak.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 221671,
+                  "name": "ziploc bags",
+                  "localizedName": "ziploc bags",
+                  "image": "plastic-bag.jpg"
+                }
+              ],
+              "length": { "number": 120, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Remove from marinade; place on rack in broiler pan so surface of meat is 3 to 4 inches from heat. Broil 14 to 16 minutes to doneness desired (rare to medium-rare), turning once.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404698,
+                  "name": "broiler pan",
+                  "localizedName": "broiler pan",
+                  "image": "broiler-pan.jpg"
+                }
+              ],
+              "length": { "number": 14, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Let stand 5 minutes. Carve steak into thin slices.Meanwhile, combine napa cabbage, romaine, carrots and radishes; place an equal amount of each on 4 individual plates. Arrange an equal number of cucumber slices in circle at top of salad greens on each plate. Mound 1/4 cup rice on each cucumber circle. Fan pea pods around both sides of rice. Arrange steak slices as spokes on salad greens, radiating down from rice.",
+              "ingredients": [
+                {
+                  "id": 11119,
+                  "name": "napa cabbage",
+                  "localizedName": "napa cabbage",
+                  "image": "napa-cabbage.jpg"
+                },
+                {
+                  "id": 21052,
+                  "name": "greens",
+                  "localizedName": "greens",
+                  "image": "mixed-greens-or-mesclun.jpg"
+                },
+                {
+                  "id": 11206,
+                  "name": "cucumber",
+                  "localizedName": "cucumber",
+                  "image": "cucumber.jpg"
+                },
+                {
+                  "id": 11300,
+                  "name": "snow peas",
+                  "localizedName": "snow peas",
+                  "image": "snow-peas.jpg"
+                },
+                {
+                  "id": 11429,
+                  "name": "radish",
+                  "localizedName": "radish",
+                  "image": "radishes.jpg"
+                },
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                },
+                {
+                  "id": 10111251,
+                  "name": "romaine",
+                  "localizedName": "romaine",
+                  "image": "romaine"
+                },
+                {
+                  "id": 23232,
+                  "name": "steak",
+                  "localizedName": "steak",
+                  "image": "ribeye-raw.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Serve dressing with salad. Makes 4 servings.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Combine dry sherry, soy sauce, vinegar, hoisin sauce and ginger; mix well. Divide mixture in half; reserve half for steak marinade. To prepare dressing, combine remaining mixture with water, green onion, sugar and oil; mix well.",
+              "ingredients": [
+                {
+                  "id": 6175,
+                  "name": "hoisin sauce",
+                  "localizedName": "hoisin sauce",
+                  "image": "dark-sauce.jpg"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 10114106,
+                  "name": "dry sherry",
+                  "localizedName": "dry sherry",
+                  "image": "dry-sherry.png"
+                },
+                {
+                  "id": 16124,
+                  "name": "soy sauce",
+                  "localizedName": "soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 23232,
+                  "name": "steak",
+                  "localizedName": "steak",
+                  "image": "ribeye-raw.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 69.96331787109375,
+      "spoonacularSourceUrl": "https://spoonacular.com/japanese-steak-salad-648500"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 14,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 18,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 103.94,
+      "id": 653008,
+      "title": "Neoguri (Spicy Seafood Ramen)",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "http://www.foodista.com/recipe/77PG3GGF/neoguri-spicy-seafood-ramen",
+      "image": "https://spoonacular.com/recipeImages/653008-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you have approximately <b>45 minutes</b> to spend in the kitchen, Neoguri (Spicy Seafood Ramen) might be an awesome <b>dairy free and pescatarian</b> recipe to try. For <b>$1.04 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains approximately <b>21g of protein</b>, <b>19g of fat</b>, and a total of <b>481 calories</b>. This recipe serves 1. 2 people found this recipe to be yummy and satisfying. It is brought to you by Foodista. It is an <b>affordable</b> recipe for fans of Japanese food. If you have scallion, seaweed, neoguri ramen, and a few other ingredients on hand, you can make it. It works well as a main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%</b>. This score is pretty good. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/neoguri-spicy-seafood-ramen-1371711\">Neoguri (Spicy Seafood Ramen)</a>, <a href=\"https://spoonacular.com/recipes/spicy-chicken-ramen-1615627\">Spicy Chicken Ramen</a>, and <a href=\"https://spoonacular.com/recipes/spicy-ramen-cup-of-noodles-1323355\">Spicy Ramen Cup of Noodles</a>.",
+      "cuisines": ["Japanese", "Asian"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["dairy free", "pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Add mussels and sauce packets into boiling water.",
+              "ingredients": [
+                {
+                  "id": 15164,
+                  "name": "mussels",
+                  "localizedName": "mussels",
+                  "image": "mussels.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Let boil with mussels about 5 minutes to cook and deepen the broth. If using fresh mussels, wait until they open and discard closed mussels.",
+              "ingredients": [
+                {
+                  "id": 15164,
+                  "name": "mussels",
+                  "localizedName": "mussels",
+                  "image": "mussels.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Include the noodles and cook for a 2, 3 minutes.",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Add the beaten egg while stirring noodles in a circular motion for even, flaky egg drops. If wanting a poached egg, carefully add the egg off to the side of the pot.",
+              "ingredients": [
+                {
+                  "id": 1131,
+                  "name": "poached egg",
+                  "localizedName": "poached egg",
+                  "image": "poached-egg.png"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Meanwhile, cut scallion into thin pieces along with gim (seaweed) sheet.",
+              "ingredients": [
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 11445,
+                  "name": "seaweed",
+                  "localizedName": "seaweed",
+                  "image": "kombu.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Transfer to a serving bowl and add the scallions and gim (seaweed).",
+              "ingredients": [
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 11445,
+                  "name": "seaweed",
+                  "localizedName": "seaweed",
+                  "image": "kombu.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 66.68122863769531,
+      "spoonacularSourceUrl": "https://spoonacular.com/neoguri-spicy-seafood-ramen-653008"
+    }
+  ]

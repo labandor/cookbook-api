@@ -1,0 +1,2263 @@
+[
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 25,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 100,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 779.65,
+      "id": 1095806,
+      "title": "Spanish style salmon fillets",
+      "readyInMinutes": 30,
+      "servings": 2,
+      "sourceUrl": "https://www.foodista.com/recipe/JS5W8D53/spanish-style-salmon-fillets",
+      "image": "https://spoonacular.com/recipeImages/1095806-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>European</b> recipes to your recipe box, Spanish style salmon fillets might be a recipe you should try. This recipe serves 2. One serving contains <b>945 calories</b>, <b>53g of protein</b>, and <b>60g of fat</b>. For <b>$7.8 per serving</b>, this recipe <b>covers 54%</b> of your daily requirements of vitamins and minerals. 1 person were impressed by this recipe. This recipe from Foodista requires ground pepper, olives, salmon fillets, and coarse sea salt. It works well as an expensive main course. From preparation to the plate, this recipe takes around <b>30 minutes</b>. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and pescatarian</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is amazing. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/tasty-salmon-fillets-asian-style-87364\">Tasty Salmon Fillets Asian Style</a>, <a href=\"https://spoonacular.com/recipes/crock-pot-salmon-fillets-and-asian-style-vegetables-1219451\">Crock Pot Salmon Fillets and Asian Style Vegetables</a>, and <a href=\"https://spoonacular.com/recipes/crock-pot-salmon-fillets-and-asian-style-vegetables-524925\">Crock Pot Salmon Fillets and Asian Style Vegetables</a>.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free", "whole 30", "pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cut onions into wedges and slice bell peppers into strips.",
+              "ingredients": [
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Put the croutons, olives, onions, and peppers on a baking sheet.",
+              "ingredients": [
+                {
+                  "id": 18242,
+                  "name": "croutons",
+                  "localizedName": "croutons",
+                  "image": "croutons.png"
+                },
+                {
+                  "id": 10111333,
+                  "name": "peppers",
+                  "localizedName": "peppers",
+                  "image": "green-pepper.jpg"
+                },
+                {
+                  "id": 9195,
+                  "name": "olives",
+                  "localizedName": "olives",
+                  "image": "olives-mixed.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add the smoked paprika, salt, pepper and 3 tablespoons of the olive oil and toss until everything is evenly coated.",
+              "ingredients": [
+                {
+                  "id": 1012028,
+                  "name": "smoked paprika",
+                  "localizedName": "smoked paprika",
+                  "image": "paprika.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Bake in the oven at 400F for about 15 minutes.Rub the salmon fillets with the remaining 2 tablespoons olive oil and season with the remaining salt and pepper. Arrange the fillets among the vegetables and croutons on the baking sheet.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 10115076,
+                  "name": "salmon fillets",
+                  "localizedName": "salmon fillets",
+                  "image": "salmon.png"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 18242,
+                  "name": "croutons",
+                  "localizedName": "croutons",
+                  "image": "croutons.png"
+                },
+                {
+                  "id": 1012034,
+                  "name": "dry seasoning rub",
+                  "localizedName": "dry seasoning rub",
+                  "image": "seasoning.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 400, "unit": "Fahrenheit" }
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Bake for 10-15 minutes or until the salmon is cooked.",
+              "ingredients": [
+                {
+                  "id": 15076,
+                  "name": "salmon",
+                  "localizedName": "salmon",
+                  "image": "salmon.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 92.44658660888672,
+      "spoonacularSourceUrl": "https://spoonacular.com/spanish-style-salmon-fillets-1095806"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 26,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 60,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 593.46,
+      "id": 662294,
+      "title": "Sun-Dried Tomato Romesco",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "https://www.foodista.com/recipe/W2PPGSSX/sun-dried-tomato-romesco",
+      "image": "https://spoonacular.com/recipeImages/662294-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Sun-Dried Tomato Romesco could be just the <b>gluten free and primal</b> recipe you've been looking for. One portion of this dish contains approximately <b>45g of protein</b>, <b>65g of fat</b>, and a total of <b>897 calories</b>. For <b>$5.93 per serving</b>, you get a sauce that serves 1. 1 person were glad they tried this recipe. If you have garlic, salt, roasted peppers, and a few other ingredients on hand, you can make it. This recipe is typical of European cuisine. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 84%</b>, which is tremendous. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/vegan-sun-dried-tomato-fettuccine-alfredo-how-to-make-your-own-sun-dried-tomatoes-495549\">(Vegan!) Sun-Dried Tomato Fettuccine Alfredo + How To Make Your Own Sun-Dried Tomatoes</a>, <a href=\"https://spoonacular.com/recipes/vegan-sun-dried-tomato-fettuccine-alfredo-how-to-make-your-own-sun-dried-tomatoes-1217135\">(Vegan!) Sun-Dried Tomato Fettuccine Alfredo + How To Make Your Own Sun-Dried Tomatoes</a>, and <a href=\"https://spoonacular.com/recipes/vegan-sun-dried-tomato-fettuccine-alfredo-how-to-make-your-own-sun-dried-tomatoes-1356955\">(Vegan!) Sun-Dried Tomato Fettuccine Alfredo + How To Make Your Own Sun-Dried Tomatoes</a>.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["sauce"],
+      "diets": ["gluten free", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Combine hazelnuts, almonds, Parmesan, and garlic in a food processor. Pulse until finely ground.",
+              "ingredients": [
+                {
+                  "id": 12120,
+                  "name": "hazelnuts",
+                  "localizedName": "hazelnuts",
+                  "image": "hazelnuts.jpg"
+                },
+                {
+                  "id": 1033,
+                  "name": "parmesan",
+                  "localizedName": "parmesan",
+                  "image": "parmesan.jpg"
+                },
+                {
+                  "id": 12061,
+                  "name": "almonds",
+                  "localizedName": "almonds",
+                  "image": "almonds.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add roasted red peppers, sun-dried tomatoes, vinegar, salt, and red pepper.",
+              "ingredients": [
+                {
+                  "id": 11916,
+                  "name": "roasted red peppers",
+                  "localizedName": "roasted red peppers",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 11955,
+                  "name": "sun dried tomatoes",
+                  "localizedName": "sun dried tomatoes",
+                  "image": "sundried-tomatoes.jpg"
+                },
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Process until smooth, or desired consistency.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 85.86737060546875,
+      "spoonacularSourceUrl": "https://spoonacular.com/sun-dried-tomato-romesco-662294"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 16,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 6,
+      "healthScore": 27,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 473.54,
+      "id": 631747,
+      "title": "Dutch Oven Paella",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/HD6HS3BD/dutch-oven-paella",
+      "image": "https://spoonacular.com/recipeImages/631747-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Dutch Oven Paellan is a main course that serves 6. For <b>$4.74 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. One serving contains <b>670 calories</b>, <b>43g of protein</b>, and <b>24g of fat</b>. 6 people found this recipe to be yummy and satisfying. If you have garlic cloves, flat parsely, chicken thighs, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. This recipe is typical of European cuisine. From preparation to the plate, this recipe takes around <b>45 minutes</b>. It is a good option if you're following a <b>dairy free</b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 78%</b>, which is good. <a href=\"https://spoonacular.com/recipes/dutch-oven-paella-1438817\">Dutch Oven Paella</a>, <a href=\"https://spoonacular.com/recipes/dutch-oven-paella-1479225\">Dutch Oven Paella</a>, and <a href=\"https://spoonacular.com/recipes/dutch-oven-cobbler-423365\">Dutch Oven Cobbler</a> are very similar to this recipe.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Adjust oven rack to lower middle position and heat oven to 35",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "In a med bowl, toss shrimp with 1 t. minced garlic, 1 T. olive oil, 1/4 t. salt & 1/4 t. pepper. Refrigerate until needed. Season chicken with salt & pepper, set aside.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "minced garlic",
+                  "localizedName": "minced garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Heat 2 t. oil in a large Dutch oven over med-high heat until oil shimmers, add bell pepper and cook, stirring occasionally until skins blister and brown about 3-4 minutes.",
+              "ingredients": [
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                }
+              ],
+              "length": { "number": 4, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Remove to a plate and set aside.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Add 1 T. more oil to the pot, add chicken thighs and brown well, flipping once, about 3 minutes per side.",
+              "ingredients": [
+                {
+                  "id": 5091,
+                  "name": "chicken thighs",
+                  "localizedName": "chicken thighs",
+                  "image": "chicken-thigh.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Remove chicken to a bowl, reduce heat to medium, add sausage and cook 4-5 minutes, stirring frequently, until browned and fat starts to render.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1017063,
+                  "name": "sausage",
+                  "localizedName": "sausage",
+                  "image": "raw-pork-sausage.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "Add to bowl with the browned chicken.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "At medium heat, add enough oil to the pot to equal 2 T., add onion and cook, stirring frequently, until tender, about 3 minutes, add remaining garlic, cook for 1 minute, add tomatoes, cook and stir until tomatoes thicken and darken slightly about 3 minutes.",
+              "ingredients": [
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 7, "unit": "minutes" }
+            },
+            {
+              "number": 9,
+              "step": "Add rice, cook and stir for about 2 minutes, making sure everything is evenly mixed.",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 2, "unit": "minutes" }
+            },
+            {
+              "number": 10,
+              "step": "Add broth, wine, saffron, bay leaf and 1/2 t. salt.",
+              "ingredients": [
+                {
+                  "id": 2004,
+                  "name": "bay leaves",
+                  "localizedName": "bay leaves",
+                  "image": "bay-leaves.jpg"
+                },
+                {
+                  "id": 2037,
+                  "name": "saffron",
+                  "localizedName": "saffron",
+                  "image": "saffron.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 11,
+              "step": "Add the browned chicken and sausage. Increase heat to med-high, bring to a boil, stirring often. Cover pot and place in the oven.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1017063,
+                  "name": "sausage",
+                  "localizedName": "sausage",
+                  "image": "raw-pork-sausage.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "step": "Bake for 15 minutes (liquid should be mostly absorbed).",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            },
+            {
+              "number": 13,
+              "step": "Remove pot from the oven (keep oven door closed to retain heat), remove the lid, nestle the artichoke hearts down in the rice a bit.",
+              "ingredients": [
+                {
+                  "id": 99242,
+                  "name": "artichoke hearts",
+                  "localizedName": "artichoke hearts",
+                  "image": "artichoke-hearts.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 14,
+              "step": "Sprinkle the shrimp over the top of the rice, then, sprinkle with the peas and bell pepper strips. Replace the led, add back to the oven for another 10 minutes or until the shrimp are opaque.",
+              "ingredients": [
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 11304,
+                  "name": "peas",
+                  "localizedName": "peas",
+                  "image": "peas.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 15,
+              "step": "Turn stove burner to med-high heat.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404794,
+                  "name": "stove",
+                  "localizedName": "stove",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "step": "Remove the pot from the oven, place on the stove cook for 5 minutes to get the browned portion on the bottom of the rice (called Soccarat), rotating the pot 180 degrees halfway through to ensure even browning.",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404794,
+                  "name": "stove",
+                  "localizedName": "stove",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 17,
+              "step": "Remove pot from heat and let the paella rest, covered, for 5 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 18,
+              "step": "Sprinkle with fresh chopped parsley and lemon wedges.",
+              "ingredients": [
+                {
+                  "id": 1029150,
+                  "name": "lemon wedge",
+                  "localizedName": "lemon wedge",
+                  "image": "lemon-wedge.png"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 78.91976928710938,
+      "spoonacularSourceUrl": "https://spoonacular.com/dutch-oven-paella-631747"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 30,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 317.8,
+      "id": 652134,
+      "title": "Mixed Paella",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/W5RRXF6W/mixed-paella",
+      "image": "https://spoonacular.com/recipeImages/652134-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Mixed Paella could be just the <b>gluten free and dairy free</b> recipe you've been looking for. This main course has <b>394 calories</b>, <b>28g of protein</b>, and <b>10g of fat</b> per serving. This recipe serves 8 and costs $3.18 per serving. It is a <b>rather expensive</b> recipe for fans of European food. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. Head to the store and pick up shrimp, peas, lemon, and a few other things to make it today. It is brought to you by Foodista. With a spoonacular <b>score of 80%</b>, this dish is good. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/mixed-paella-383976\">Mixed Paella</a>, <a href=\"https://spoonacular.com/recipes/paella-for-four-a-wonderful-spanish-mixed-seafood-stew-654327\">Paella for Four; A Wonderful Spanish Mixed Seafood Stew</a>, and <a href=\"https://spoonacular.com/recipes/frying-pan-paella-mixta-paella-with-seafood-and-meat-1250979\">Frying Pan Paella Mixta (Paella with Seafood and Meat)</a>.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "I a very large non-stick skillet or paella pan preheated over medium-high heat, add 2 teaspoons of your oil (you will need more oil if you're not using non-stick), garlic, red pepper flakes and rice.",
+              "ingredients": [
+                {
+                  "id": 1032009,
+                  "name": "red pepper flakes",
+                  "localizedName": "red pepper flakes",
+                  "image": "red-pepper-flakes.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Saute for about 3 minutes.",
+              "ingredients": [],
+              "equipment": [],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Add saffron, thyme, bay leaf and broth and bring to a boil. Cover and reduce heat to a simmer. Leave covered, do not stir.In another non-stick skillet, heat to medium-high.",
+              "ingredients": [
+                {
+                  "id": 2004,
+                  "name": "bay leaves",
+                  "localizedName": "bay leaves",
+                  "image": "bay-leaves.jpg"
+                },
+                {
+                  "id": 2037,
+                  "name": "saffron",
+                  "localizedName": "saffron",
+                  "image": "saffron.jpg"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 2049,
+                  "name": "thyme",
+                  "localizedName": "thyme",
+                  "image": "thyme.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add chorizo and crumble as you saute. When the sausage is cooked through, add red pepper and onion. Salt and pepper to taste if needed.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 99233,
+                  "name": "chorizo",
+                  "localizedName": "chorizo",
+                  "image": "chorizo.jpg"
+                },
+                {
+                  "id": 1017063,
+                  "name": "sausage",
+                  "localizedName": "sausage",
+                  "image": "raw-pork-sausage.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Saute until the onion is tender and remove from heat, set aside.When the rice is nearly done (about 15 minutes) add fish and shrimp and press into rice.",
+              "ingredients": [
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 10115261,
+                  "name": "fish",
+                  "localizedName": "fish",
+                  "image": "fish-fillet.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 15, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Add mussels, peas and sprinkle with lemon zest. Cover and continue to simmer until the rice is done and the mussels have opened. Discard any that do not.Top with chorizo mixture and parsley.",
+              "ingredients": [
+                {
+                  "id": 9156,
+                  "name": "lemon zest",
+                  "localizedName": "lemon zest",
+                  "image": "zest-lemon.jpg"
+                },
+                {
+                  "id": 99233,
+                  "name": "chorizo",
+                  "localizedName": "chorizo",
+                  "image": "chorizo.jpg"
+                },
+                {
+                  "id": 15164,
+                  "name": "mussels",
+                  "localizedName": "mussels",
+                  "image": "mussels.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 11304,
+                  "name": "peas",
+                  "localizedName": "peas",
+                  "image": "peas.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Serve with lemon wedges and a crusty bread.",
+              "ingredients": [
+                {
+                  "id": 10018029,
+                  "name": "crusty bread",
+                  "localizedName": "crusty bread",
+                  "image": "crusty-bread.jpg"
+                },
+                {
+                  "id": 1029150,
+                  "name": "lemon wedge",
+                  "localizedName": "lemon wedge",
+                  "image": "lemon-wedge.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 77.43998718261719,
+      "spoonacularSourceUrl": "https://spoonacular.com/mixed-paella-652134"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 3,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 24,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 121.75,
+      "id": 1095841,
+      "title": "Spanish Gazpacho Soup",
+      "readyInMinutes": 10,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/J8FLJFS5/spanish-gazpacho-soup",
+      "image": "https://spoonacular.com/recipeImages/1095841-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Spanish Gazpacho Soup could be just the <b>dairy free, lacto ovo vegetarian, and vegan</b> recipe you've been looking for. This hor d'oeuvre has <b>170 calories</b>, <b>5g of protein</b>, and <b>8g of fat</b> per serving. For <b>$1.22 per serving</b>, this recipe <b>covers 15%</b> of your daily requirements of vitamins and minerals. This recipe serves 4. 1 person has tried and liked this recipe. <b>Summer</b> will be even more special with this recipe. This recipe is typical of European cuisine. If you have tomatoes, onion, olive oil, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>10 minutes</b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 75%</b>, which is good. <a href=\"https://spoonacular.com/recipes/spanish-gazpacho-cold-summer-soup-603393\">Spanish Gazpacho {Cold Summer Soup}</a>, <a href=\"https://spoonacular.com/recipes/white-gazpacho-the-delicious-spanish-garlic-soup-923021\">White Gazpacho – The delicious Spanish Garlic Soup</a>, and <a href=\"https://spoonacular.com/recipes/spanish-gazpacho-soup-in-the-raw-with-broiled-cheese-toast-660861\">Spanish Gazpacho Soup In The Raw With Broiled \"Cheese\" Toast</a> are very similar to this recipe.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": [
+        "soup",
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": ["dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": ["fall", "winter", "summer"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cut all vegetables into chunks and place in a food processor or a large bowl.",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add bread, water, garlic, olive oil, vinegar, and salt.Using a food processor or a hand blender blend until the soup is smooth.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 18064,
+                  "name": "bread",
+                  "localizedName": "bread",
+                  "image": "white-bread.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404776,
+                  "name": "immersion blender",
+                  "localizedName": "immersion blender",
+                  "image": "immersion-blender.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Place in your fridge to cool down for at least an hour.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Serve in a bowl/jar/glass with some ice cubes.",
+              "ingredients": [
+                {
+                  "id": 10014412,
+                  "name": "ice cubes",
+                  "localizedName": "ice cubes",
+                  "image": "ice-cubes.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 77.05418395996094,
+      "spoonacularSourceUrl": "https://spoonacular.com/spanish-gazpacho-soup-1095841"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 12,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 3,
+      "healthScore": 20,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 186.42,
+      "id": 654327,
+      "title": "Paella for Four; A Wonderful Spanish Mixed Seafood Stew",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/J76JJX3Q/paella-for-four-a-wonderful-spanish-mixed-seafood-stew",
+      "summary": "Paella for Four; A Wonderful Spanish Mixed Seafood Stew is an European recipe that serves 4. This side dish has <b>444 calories</b>, <b>15g of protein</b>, and <b>20g of fat</b> per serving. For <b>$1.86 per serving</b>, this recipe <b>covers 19%</b> of your daily requirements of vitamins and minerals. It is perfect for <b>Autumn</b>. This recipe from Foodista requires solid chorizo sausage, lemon wedges, chicken wings, and pepper. 3 people were glad they tried this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. It is a good option if you're following a <b>gluten free and dairy free</b> diet. Overall, this recipe earns a <b>solid spoonacular score of 73%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/frying-pan-paella-mixta-paella-with-seafood-and-meat-1250979\">Frying Pan Paella Mixta (Paella with Seafood and Meat)</a>, <a href=\"https://spoonacular.com/recipes/frying-pan-paella-mixta-paella-with-seafood-and-meat-1316307\">Frying Pan Paella Mixta (Paella with Seafood and Meat)</a>, and <a href=\"https://spoonacular.com/recipes/frying-pan-paella-mixta-paella-with-seafood-and-meat-160768\">Frying Pan Paella Mixta (Paella with Seafood and Meat)</a>.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["side dish"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": ["fall", "winter"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Use a 12 inch All-Clad stainless steel pan or equivalent. A paella pan is not necessary.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Mix the Spice",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Mix and rub on the chicken and refrigerate for 1 hour.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1012034,
+                  "name": "dry seasoning rub",
+                  "localizedName": "dry seasoning rub",
+                  "image": "seasoning.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 60, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Let the chicken warm up for 30 minutes before cooking.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 30, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Heat half of the oil in the pan to medium high heat and brown the sausage rounds, then reserve.",
+              "ingredients": [
+                {
+                  "id": 1017063,
+                  "name": "sausage",
+                  "localizedName": "sausage",
+                  "image": "raw-pork-sausage.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Add the remaining oil and chicken and brown on all sides, then reserve.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Reduce the heat to medium and add the onions, garlic and parsley to start the sofrito. Cook for 2 to 3 minutes then add the crushed and drained tomatoes and cook for about 3 minutes while flavors meld. This base sauce is the sofrito.",
+              "ingredients": [
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "base",
+                  "localizedName": "base",
+                  "image": ""
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 8,
+              "step": "Add the rice and stir to mix thoroughly to coat all the rice; about 2 more minutes.",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 2, "unit": "minutes" }
+            },
+            {
+              "number": 9,
+              "step": "Add back the sausage and chicken.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1017063,
+                  "name": "sausage",
+                  "localizedName": "sausage",
+                  "image": "raw-pork-sausage.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Pour in the hot water, bring to a gentle simmer and cook for about 5 minutes, stirring occasionally to mix and place the pieces.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 11,
+              "step": "Place the clams where you want them in the finished dish and don't stir anymore. Cook for 5 minutes.",
+              "ingredients": [
+                {
+                  "id": 15157,
+                  "name": "clams",
+                  "localizedName": "clams",
+                  "image": "clams.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 12,
+              "step": "Place the shrimp tails up where you want them to appear in the finished dish.",
+              "ingredients": [
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 13,
+              "step": "Cook for about 10 minutes or until the clams are open, the shrimp are pink and the rice is fluffy and moist but not dry.",
+              "ingredients": [
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 15157,
+                  "name": "clams",
+                  "localizedName": "clams",
+                  "image": "clams.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 14,
+              "step": "With a fork, feel the bottom of the dish. If it has formed a slight crust, called socarrat, it's ready to be served. If the socarrat has not formed, turn the heat up for 30 to 45 seconds while the crust forms. Then serve immediately.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 69.60847473144531,
+      "spoonacularSourceUrl": "https://spoonacular.com/paella-for-four-a-wonderful-spanish-mixed-seafood-stew-654327",
+      "image": "https://spoonacular.com/recipeImages/654327-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 27,
+      "gaps": "no",
+      "preparationMinutes": 10,
+      "cookingMinutes": 15,
+      "aggregateLikes": 0,
+      "healthScore": 35,
+      "creditsText": "maplewoodroad",
+      "sourceName": "maplewoodroad.com",
+      "pricePerServing": 310.19,
+      "id": 1697577,
+      "title": "Spanish Sardines Pasta",
+      "author": "maplewoodroad",
+      "readyInMinutes": 25,
+      "servings": 2,
+      "sourceUrl": "https://maplewoodroad.com/spanish-sardines-pasta/",
+      "image": "https://spoonacular.com/recipeImages/1697577-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Spanish Sardines Pasta might be just the main course you are searching for. This recipe makes 2 servings with <b>920 calories</b>, <b>40g of protein</b>, and <b>42g of fat</b> each. For <b>$3.1 per serving</b>, this recipe <b>covers 39%</b> of your daily requirements of vitamins and minerals. A mixture of parmesan cheese, cherry tomatoes, olive oil, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes about <b>25 minutes</b>. It is a good option if you're following a <b>pescatarian</b> diet. It is brought to you by spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a>. Try <a href=\"https://spoonacular.com/recipes/pasta-with-sardines-pistachio-and-orange-4316\">Pasta With Sardines, Pistachio And Orange</a>, <a href=\"https://spoonacular.com/recipes/pasta-with-sardines-zucchini-and-lemon-4359\">Pasta With Sardines, Zucchini And Lemon</a>, and <a href=\"https://spoonacular.com/recipes/pasta-with-fennel-sardines-and-pine-nuts-4371\">Pasta With Fennel, Sardines, And Pine Nuts</a> for similar recipes.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": ["pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Start by cooking the pasta as usual. Just before you drain it, reserve 1/2 c of the pasta water and set aside.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "While the fettuccine is cooking, heat olive oil in a pan over low heat.",
+              "ingredients": [
+                {
+                  "id": 10020409,
+                  "name": "fettuccine",
+                  "localizedName": "fettuccine",
+                  "image": "egg-noodles.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add onion and cook for 3 minutes or until it just starts to soften.",
+              "ingredients": [
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Then, add garlic and cook for an additional 1 minute.",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 1, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Add tomatoes, olives, capers, lemon juice, pepper flakes, and sardines (including the oil) and cook for 4 minutes. When adding the sardines, lightly break up the fillets with a fork.",
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                },
+                {
+                  "id": 15088,
+                  "name": "sardines",
+                  "localizedName": "sardines",
+                  "image": "sardines-canned.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 2054,
+                  "name": "capers",
+                  "localizedName": "capers",
+                  "image": "capers.jpg"
+                },
+                {
+                  "id": 9195,
+                  "name": "olives",
+                  "localizedName": "olives",
+                  "image": "olives-mixed.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 4, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Next, add reserved pasta water and freshly ground black pepper to taste and cook for an additional 2 minutes.",
+              "ingredients": [
+                {
+                  "id": 1002030,
+                  "name": "ground black pepper",
+                  "localizedName": "ground black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 2, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "Finally, add cooked fettuccine to the pan and toss in the sauce.",
+              "ingredients": [
+                {
+                  "id": 10020410,
+                  "name": "cooked fettuccine",
+                  "localizedName": "cooked fettuccine",
+                  "image": "egg-noodles.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Garnish with freshly grated Parmesan cheese and parsley, and serve with a nice crusty bread. Enjoy!",
+              "ingredients": [
+                {
+                  "id": 1032,
+                  "name": "grated parmesan cheese",
+                  "localizedName": "grated parmesan cheese",
+                  "image": "parmesan.jpg"
+                },
+                {
+                  "id": 10018029,
+                  "name": "crusty bread",
+                  "localizedName": "crusty bread",
+                  "image": "crusty-bread.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 62.875694274902344,
+      "spoonacularSourceUrl": "https://spoonacular.com/spanish-sardines-pasta-1697577"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 16,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 74.95,
+      "id": 660883,
+      "title": "Spanish “Ketchup” – Romesco Sauce",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/ZZWTZH7K/spanish-ketchup-romesco-sauce",
+      "image": "https://spoonacular.com/recipeImages/660883-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Spanish “Ketchup” – Romesco Sauce takes around <b>45 minutes</b> from beginning to end. For <b>75 cents per serving</b>, this recipe <b>covers 8%</b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>83 calories</b>, <b>2g of protein</b>, and <b>5g of fat</b> per serving. This recipe serves 8. 1 person found this recipe to be delicious and satisfying. It is brought to you by Foodista. This recipe is typical of European cuisine. A mixture of olive oil, paprika, oregano, and a handful of other ingredients are all it takes to make this recipe so flavorful. Not a lot of people really liked this sauce. Overall, this recipe earns a <b>pretty good spoonacular score of 58%</b>. <a href=\"https://spoonacular.com/recipes/spanish-romesco-sauce-245700\">Spanish Romesco Sauce</a>, <a href=\"https://spoonacular.com/recipes/spanish-omelet-with-romesco-sauce-315326\">Spanish Omelet with Romesco Sauce</a>, and <a href=\"https://spoonacular.com/recipes/smoky-spanish-romesco-sauce-552777\">Smoky Spanish Romesco Sauce</a> are very similar to this recipe.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["sauce"],
+      "diets": ["gluten free", "dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Fire up your grill to roast the red bell peppers.  Lightly coat the red peppers with olive oil & place on a pre-heated grill over high heat.  Turn the peppers occasionally to char the skin black  10 to 15 minutes.",
+              "ingredients": [
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 10111333,
+                  "name": "peppers",
+                  "localizedName": "peppers",
+                  "image": "green-pepper.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Remove the peppers from the grill & place in a bowl.  Cover with plastic wrap  10 minutes.  Peel & discard the skin, seeds & veins;  Rough chop the peppers & place in a food processor.",
+              "ingredients": [
+                {
+                  "id": 10111333,
+                  "name": "peppers",
+                  "localizedName": "peppers",
+                  "image": "green-pepper.jpg"
+                },
+                {
+                  "id": 93818,
+                  "name": "seeds",
+                  "localizedName": "seeds",
+                  "image": "sunflower-seeds.jpg"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404730,
+                  "name": "plastic wrap",
+                  "localizedName": "plastic wrap",
+                  "image": "plastic-wrap.jpg"
+                },
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Add all the other ingredients & pulse until blended.  Slowly add the olive oil & blend until smooth.  Season with salt & pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "You can serve the romesco sauce at room temperature or chilled.  If needed, gently warm the sauce over low heat.  Over heating the sauce will could cause it to separate.  If so, pour separated sauce in a blender & process for 1 minute.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "romesco",
+                  "localizedName": "romesco",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ],
+              "length": { "number": 1, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 62.72897720336914,
+      "spoonacularSourceUrl": "https://spoonacular.com/spanish-ketchup-romesco-sauce-660883"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 9,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 19,
+      "healthScore": 10,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 294.34,
+      "id": 641911,
+      "title": "Easy Chicken, Kielbasa and Shrimp Paella",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/JYKRF2ZZ/easy-chicken-kielbasa-and-shrimp-paella",
+      "image": "https://spoonacular.com/recipeImages/641911-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you have roughly <b>45 minutes</b> to spend in the kitchen, Easy Chicken, Kielbasan and Shrimp Paella might be a great <b>gluten free and dairy free</b> recipe to try. For <b>$2.94 per serving</b>, you get a main course that serves 8. One serving contains <b>385 calories</b>, <b>33g of protein</b>, and <b>9g of fat</b>. It is a <b>budget friendly</b> recipe for fans of European food. This recipe is liked by 19 foodies and cooks. A mixture of regular rice, picante sauce, shrimp, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. With a spoonacular <b>score of 69%</b>, this dish is solid. Try <a href=\"https://spoonacular.com/recipes/easy-shrimp-and-chicken-paella-838618\">Easy Shrimp and Chicken Paella</a>, <a href=\"https://spoonacular.com/recipes/shrimp-and-scallop-easy-paella-301298\">Shrimp and Scallop Easy Paella</a>, and <a href=\"https://spoonacular.com/recipes/chicken-and-shrimp-paella-198233\">Chicken and Shrimp Paella</a> for similar recipes.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat the oil in a 12-inch skillet over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add the rice and cook for 30 seconds, stirring constantly. Stir the broth, picante sauce and turmeric in the skillet and heat to a boil. Reduce the heat to low. Cover and cook for 15 minutes.Stir the kielbasa, shrimp and chicken in the skillet. Cover and cook for 5 minutes or until the rice is tender.",
+              "ingredients": [
+                {
+                  "id": 1006164,
+                  "name": "picante sauce",
+                  "localizedName": "picante sauce",
+                  "image": "salsa.jpg"
+                },
+                {
+                  "id": 7059,
+                  "name": "kielbasa",
+                  "localizedName": "kielbasa",
+                  "image": "smoked-sausage.png"
+                },
+                {
+                  "id": 2043,
+                  "name": "turmeric",
+                  "localizedName": "turmeric",
+                  "image": "turmeric.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 15270,
+                  "name": "shrimp",
+                  "localizedName": "shrimp",
+                  "image": "shrimp.png"
+                },
+                {
+                  "id": 1006615,
+                  "name": "broth",
+                  "localizedName": "broth",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 20, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 61.05424118041992,
+      "spoonacularSourceUrl": "https://spoonacular.com/easy-chicken-kielbasa-and-shrimp-paella-641911"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 8,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 12,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 210.98,
+      "id": 660861,
+      "title": "Spanish Gazpacho Soup In The Raw With Broiled \"Cheese\" Toast",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/K7VQ8VNM/spanish-gazpacho-soup-in-the-raw-with-broiled-cheese-toast",
+      "image": "https://spoonacular.com/recipeImages/660861-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Spanish Gazpacho Soup In The Raw With Broiled \"Cheese\" Toast might be just the hor d'oeuvre you are searching for. Watching your figure? This dairy free, lacto ovo vegetarian, and vegan recipe has <b>298 calories</b>, <b>5g of protein</b>, and <b>18g of fat</b> per serving. This recipe serves 4. For <b>$2.11 per serving</b>, this recipe <b>covers 13%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires on the vine tomatoes, orange bell pepper, parsley, and extra virgin olive oil. 1 person has made this recipe and would make it again. It is perfect for <b>Summer</b>. Not a lot of people really liked this European dish. From preparation to the plate, this recipe takes around <b>45 minutes</b>. Overall, this recipe earns a <b>good spoonacular score of 51%</b>. Try <a href=\"https://spoonacular.com/recipes/spanish-gazpacho-cold-summer-soup-603393\">Spanish Gazpacho {Cold Summer Soup}</a>, <a href=\"https://spoonacular.com/recipes/white-gazpacho-the-delicious-spanish-garlic-soup-923021\">White Gazpacho – The delicious Spanish Garlic Soup</a>, and <a href=\"https://spoonacular.com/recipes/gazpacho-soup-cold-spanish-soup-226261\">Gazpacho Soup (Cold Spanish Soup)</a> for similar recipes.",
+      "cuisines": ["Spanish", "European"],
+      "dishTypes": [
+        "soup",
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": ["dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": ["fall", "winter", "summer"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Spanish Gazpacho Soup",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "gazpacho",
+                  "localizedName": "gazpacho",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Place all ingredients in a blender or Vitamix and blend well until smooth for about 3 minutes.Refrigerate for 1 to 2 hours before serving.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ],
+              "length": { "number": 123, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Garnish with organic crunchy onions and chopped parsley (or dried).Prepare \"cheese\" toasts.Broiled \"Cheese\" Toast",
+              "ingredients": [
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 0,
+                  "name": "sandwich bread",
+                  "localizedName": "sandwich bread",
+                  "image": "white-bread.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Postition oven rack to second to highest rack from the top. Turn oven to broil.On baking sheet , lay out bread and split \"cheese\" between both slices.",
+              "ingredients": [
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 18064,
+                  "name": "bread",
+                  "localizedName": "bread",
+                  "image": "white-bread.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Sprinkle parsley and salt and place in oven rack.Broil until slightly browned and cheese is broiled. Slice in half once toast is somewhat cool.",
+              "ingredients": [
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 0,
+                  "name": "sandwich bread",
+                  "localizedName": "sandwich bread",
+                  "image": "white-bread.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 55.446834564208984,
+      "spoonacularSourceUrl": "https://spoonacular.com/spanish-gazpacho-soup-in-the-raw-with-broiled-cheese-toast-660861"
+    }
+  ]

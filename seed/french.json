@@ -1,0 +1,2550 @@
+[
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 27,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 100,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 861.26,
+      "id": 633754,
+      "title": "Baked Ratatouille",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "http://www.foodista.com/recipe/24CCF5WL/baked-ratatouille",
+      "image": "https://spoonacular.com/recipeImages/633754-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Baked Ratatouille takes approximately <b>45 minutes</b> from beginning to end. This recipe makes 1 servings with <b>1029 calories</b>, <b>32g of protein</b>, and <b>70g of fat</b> each. For <b>$8.61 per serving</b>, this recipe <b>covers 63%</b> of your daily requirements of vitamins and minerals. It works well as a main course. This recipe is typical of Mediterranean cuisine. If you have eggplant, bell peppers, olive oil, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, lacto ovo vegetarian, and primal</b> diet. It is brought to you by Foodista. 2 people were glad they tried this recipe. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is tremendous. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/baked-ratatouille-432644\">Baked Ratatouille</a>, <a href=\"https://spoonacular.com/recipes/baked-ratatouille-106358\">Baked Ratatouille</a>, and <a href=\"https://spoonacular.com/recipes/baked-ratatouille-1379565\">Baked Ratatouille</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "lacto ovo vegetarian", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat oil in a heavy, large Dutch oven over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add garlic; stir 1 minute.",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 1, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Add eggplant, green bell peppers, tomatoes, onion, zucchini and basil.",
+              "ingredients": [
+                {
+                  "id": 11333,
+                  "name": "green pepper",
+                  "localizedName": "green pepper",
+                  "image": "green-pepper.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Saute for 5 minutes. Cover and simmer until all vegetables are tender, stirring occasionally, about 25 minutes.Uncover pot and simmer until juice thickens, stirring occasionally, about 10 minutes.",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 1019016,
+                  "name": "juice",
+                  "localizedName": "juice",
+                  "image": "apple-juice.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 40, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Mix in vinegar; season to taste with salt and pepper.Preheat oven to 350 degrees.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Spread in 9-inch pie dish.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405915,
+                  "name": "pie form",
+                  "localizedName": "pie form",
+                  "image": "pie-pan.png"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Sprinkle with cheese, if desired.",
+              "ingredients": [
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Bake until heated through, about 20 minutes.This recipe yields about 3 cups.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 20, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 93.48506927490234,
+      "spoonacularSourceUrl": "https://spoonacular.com/baked-ratatouille-633754"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": true,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 7,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 62,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 146.21,
+      "id": 640693,
+      "title": "Creamy Ratatouille Over Penne",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/PB852KG7/creamy-ratatouille",
+      "image": "https://spoonacular.com/recipeImages/640693-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you have around <b>45 minutes</b> to spend in the kitchen, Creamy Ratatouille Over Penne might be an excellent <b>lacto ovo vegetarian</b> recipe to try. This hor d'oeuvre has <b>308 calories</b>, <b>9g of protein</b>, and <b>12g of fat</b> per serving. This recipe serves 2 and costs $1.46 per serving. 1 person found this recipe to be scrumptious and satisfying. Only a few people really liked this Mediterranean dish. This recipe from Foodista requires salt, penne, onion, and ground tomatoes. Overall, this recipe earns an <b>amazing spoonacular score of 88%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/ratatouille-with-penne-190307\">Ratatouille with Penne</a>, <a href=\"https://spoonacular.com/recipes/ratatouille-soup-with-pork-and-penne-104024\">Ratatouille Soup With Pork and Penne</a>, and <a href=\"https://spoonacular.com/recipes/creamy-salmon-with-chunky-ratatouille-219762\">Creamy salmon with chunky ratatouille</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": [
+        "side dish",
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": ["lacto ovo vegetarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat olive oil in a large skillet over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add onion, bell pepper, and zucchini and saut for about 7 minutes, stirring occasionally, until slightly softened.",
+              "ingredients": [
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 7, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Add eggplant and continue to saut mixture for another 3 minutes, stirring frequently. When vegetables are softened, add garlic and cook until fragrant, about 1 minute.",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 4, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Add dried spices, salt, and pepper, followed by the tomato sauce and water. Allow mixture to come to a simmer and cook for 5 minutes, until slightly thickened.Stir in mascarpone cheese and serve immediately.",
+              "ingredients": [
+                {
+                  "id": 93820,
+                  "name": "mascarpone",
+                  "localizedName": "mascarpone",
+                  "image": "white-cream-fluffy.jpg"
+                },
+                {
+                  "id": 11549,
+                  "name": "tomato sauce",
+                  "localizedName": "tomato sauce",
+                  "image": "tomato-sauce-or-pasta-sauce.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 2035,
+                  "name": "spices",
+                  "localizedName": "spices",
+                  "image": "spices.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 88.02056121826172,
+      "spoonacularSourceUrl": "https://spoonacular.com/creamy-ratatouille-over-penne-640693"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 26,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 32,
+      "healthScore": 25,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 393.49,
+      "id": 648638,
+      "title": "Julia Child's Coq au Vin",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/FCQYLDSL/julia-child-s-coq-au-vin",
+      "image": "https://spoonacular.com/recipeImages/648638-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Julia Child's Coq au Vin can be made <b>in around 45 minutes</b>. For <b>$3.93 per serving</b>, you get a main course that serves 6. One portion of this dish contains approximately <b>35g of protein</b>, <b>41g of fat</b>, and a total of <b>778 calories</b>. 32 people have made this recipe and would make it again. Head to the store and pick up pearl onions, chicken thighs and legs, red wine, and a few other things to make it today. It is a <b>pretty expensive</b> recipe for fans of Mediterranean food. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free and primal</b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%</b>, which is pretty good. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/julia-childs-coq-au-vin-474447\">Julia Child’s Coq au Vin</a>, <a href=\"https://spoonacular.com/recipes/coq-au-vin-and-the-julia-child-100-502107\">Coq au Vin and the Julia Child 100</a>, and <a href=\"https://spoonacular.com/recipes/from-julia-child-my-husbands-favorite-coq-au-vin-112270\">From Julia Child: &quot;My Husband's Favorite Coq Au Vin&quot;</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Blanch the bacon to remove some of its saltiness. Drop the bacon into a saucepan of cold water, covered by a couple of inches. Bring to a boil, simmer for 5 minutes, drain. Rinse in cold water, pat dry with paper towels.",
+              "ingredients": [
+                {
+                  "id": 10123,
+                  "name": "bacon",
+                  "localizedName": "bacon",
+                  "image": "raw-bacon.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405895,
+                  "name": "paper towels",
+                  "localizedName": "paper towels",
+                  "image": "paper-towels.jpg"
+                },
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Cut the bacon into 1 inch by 1/4 inch pieces.Brown bacon on medium high heat in a dutch oven big enough to hold the chicken, about 10 minutes.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 10123,
+                  "name": "bacon",
+                  "localizedName": "bacon",
+                  "image": "raw-bacon.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Remove the cooked bacon, set aside. Keep the bacon fat in the pan. Working in batches if necessary, add onions and chicken, skin side down. Brown the chicken well, on all sides, about 10 minutes. Halfway through the browning, add the garlic and sprinkle the chicken with salt and pepper.Spoon off any excess fat.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 10862,
+                  "name": "cooked bacon",
+                  "localizedName": "cooked bacon",
+                  "image": "cooked-bacon.jpg"
+                },
+                {
+                  "id": 4609,
+                  "name": "bacon drippings",
+                  "localizedName": "bacon drippings",
+                  "image": "raw-bacon.png"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Add the chicken stock, wine, and herbs.",
+              "ingredients": [
+                {
+                  "id": 6172,
+                  "name": "chicken stock",
+                  "localizedName": "chicken stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 1002044,
+                  "name": "herbs",
+                  "localizedName": "herbs",
+                  "image": "mixed-fresh-herbs.jpg"
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Add back the bacon. Lower heat to a simmer. Cover and cook for 20 minutes, or until chicken is tender and cooked through.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 10123,
+                  "name": "bacon",
+                  "localizedName": "bacon",
+                  "image": "raw-bacon.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 20, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Remove chicken and onions to a separate platter.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Remove the bay leaves, herb sprigs, garlic, and discard.",
+              "ingredients": [
+                {
+                  "id": 2004,
+                  "name": "bay leaves",
+                  "localizedName": "bay leaves",
+                  "image": "bay-leaves.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Add mushrooms to the remaining liquid and turn the heat to high. Boil quickly and reduce the liquid by three fourths until it becomes thick and saucy. Lower the heat, stir in the butter. Return the chicken and onions to the pan to reheat and coat with sauce. Adjust seasoning.",
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 1042027,
+                  "name": "seasoning",
+                  "localizedName": "seasoning",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 9,
+              "step": "Garnish with parsley and serve with potatoes or egg noodles.",
+              "ingredients": [
+                {
+                  "id": 20409,
+                  "name": "egg noodles",
+                  "localizedName": "egg noodles",
+                  "image": "egg-noodles.jpg"
+                },
+                {
+                  "id": 11352,
+                  "name": "potato",
+                  "localizedName": "potato",
+                  "image": "potatoes-yukon-gold.png"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 84.66756439208984,
+      "spoonacularSourceUrl": "https://spoonacular.com/julia-childs-coq-au-vin-648638"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 19,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 51,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 263.04,
+      "id": 657933,
+      "title": "Ratatouille Pasta",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/RH3DM545/ratatouille-pasta",
+      "image": "https://spoonacular.com/recipeImages/657933-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Forget going out to eat or ordering takeout every time you crave Mediterranean food. Try making Ratatouille Pastan at home. This recipe serves 4 and costs $2.63 per serving. This main course has <b>691 calories</b>, <b>25g of protein</b>, and <b>37g of fat</b> per serving. 1 person found this recipe to be scrumptious and satisfying. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe from Foodista requires artichokes, seasoning, spaghetti, and garlic. Overall, this recipe earns an <b>amazing spoonacular score of 85%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/ratatouille-pasta-760844\">Ratatouille Pasta</a>, <a href=\"https://spoonacular.com/recipes/ratatouille-pasta-1128673\">Ratatouille Pasta</a>, and <a href=\"https://spoonacular.com/recipes/ratatouille-pasta-103612\">Ratatouille Pasta</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Saute the yellow onion in a large skillet or saute pan with enough Olive oil to coat the bottom of the pan, over medium-low heat until tender and translucent. Season with salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 10511282,
+                  "name": "yellow onion",
+                  "localizedName": "yellow onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add garlic, saute until fragrant.",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Add another tablespoon of Olive oil and the zucchini, eggplant and Italian seasoning. Continue sauteing until the zucchini and eggplant start to break down and become limp and tender.",
+              "ingredients": [
+                {
+                  "id": 1022027,
+                  "name": "italian seasoning",
+                  "localizedName": "italian seasoning",
+                  "image": "dried-herbs.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Add the artichokes and tomatoes. Season with salt and pepper. Bring to a simmer for ten - fifteen minutes. Taste and re-season if needed.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11007,
+                  "name": "artichoke",
+                  "localizedName": "artichoke",
+                  "image": "artichokes.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Meanwhile cook the spaghetti to al dente according to package directions.",
+              "ingredients": [
+                {
+                  "id": 11420420,
+                  "name": "spaghetti",
+                  "localizedName": "spaghetti",
+                  "image": "spaghetti.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Toss with pasta and serve with a drizzle of extra-virgin Olive oil and Parmesan cheese.",
+              "ingredients": [
+                {
+                  "id": 1034053,
+                  "name": "extra virgin olive oil",
+                  "localizedName": "extra virgin olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 1033,
+                  "name": "parmesan",
+                  "localizedName": "parmesan",
+                  "image": "parmesan.jpg"
+                },
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 84.43697357177734,
+      "spoonacularSourceUrl": "https://spoonacular.com/ratatouille-pasta-657933"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 16,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 45,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 292.58,
+      "id": 639599,
+      "title": "Classic French Mussels",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/X2W746Q6/classic-french-mussels-done-light",
+      "image": "https://spoonacular.com/recipeImages/639599-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories</b>, <b>32g of protein</b>, and <b>28g of fat</b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes</b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced</b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%</b>. This score is solid. Similar recipes include <a href=\"https://spoonacular.com/recipes/classic-french-mussels-738888\">Classic French Mussels</a>, <a href=\"https://spoonacular.com/recipes/french-country-mussels-138579\">French Country Mussels</a>, and <a href=\"https://spoonacular.com/recipes/french-steamed-mussels-1180539\">French Steamed Mussels</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": [
+        "lunch",
+        "antipasti",
+        "main course",
+        "starter",
+        "snack",
+        "appetizer",
+        "main dish",
+        "antipasto",
+        "dinner",
+        "hor d'oeuvre"
+      ],
+      "diets": ["gluten free", "primal", "pescatarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.",
+              "ingredients": [
+                {
+                  "id": 15164,
+                  "name": "mussels",
+                  "localizedName": "mussels",
+                  "image": "mussels.jpg"
+                },
+                {
+                  "id": 11020420,
+                  "name": "pasta shells",
+                  "localizedName": "pasta shells",
+                  "image": "shell-pasta.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Heat the olive oil in a large pot over medium-high heat.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add the shallots and garlic and cook until soft, about 5 minutes.",
+              "ingredients": [
+                {
+                  "id": 11677,
+                  "name": "shallot",
+                  "localizedName": "shallot",
+                  "image": "shallots.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.",
+              "ingredients": [
+                {
+                  "id": 1082047,
+                  "name": "kosher salt",
+                  "localizedName": "kosher salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 1230,
+                  "name": "buttermilk",
+                  "localizedName": "buttermilk",
+                  "image": "buttermilk.jpg"
+                },
+                {
+                  "id": 15164,
+                  "name": "mussels",
+                  "localizedName": "mussels",
+                  "image": "mussels.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 18064,
+                  "name": "bread",
+                  "localizedName": "bread",
+                  "image": "white-bread.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "grains",
+                  "localizedName": "grains",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 84.28392028808594,
+      "spoonacularSourceUrl": "https://spoonacular.com/classic-french-mussels-639599"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 40,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 120.89,
+      "id": 646729,
+      "title": "Herbed Vegetables In A Feta Quiche With A Wild Rice Crust",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/Y3Q7JRKB/herbed-vegetables-in-a-feta-quiche-with-a-wild-rice-crust",
+      "image": "https://spoonacular.com/recipeImages/646729-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Herbed Vegetables In A Feta Quiche With A Wild Rice Crust is ready <b>in approximately 45 minutes</b> and is definitely a tremendous <b>gluten free</b> option for lovers of Mediterranean food. One portion of this dish contains around <b>16g of protein</b>, <b>13g of fat</b>, and a total of <b>329 calories</b>. For <b>$1.21 per serving</b>, you get a main course that serves 6. A mixture of brown rice, egg, eggs, and a handful of other ingredients are all it takes to make this recipe so delicious. 1 person has tried and liked this recipe. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 58%</b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/spinach-feta-quiche-with-quinoa-crust-623565\">Spinach Feta Quiche with Quinoa Crust</a>, <a href=\"https://spoonacular.com/recipes/spinach-and-feta-quiche-with-quinoa-crust-706747\">Spinach and Feta Quiche with Quinoa Crust</a>, and <a href=\"https://spoonacular.com/recipes/spinach-feta-quiche-with-flakey-phyllo-dough-crust-723813\">Spinach Feta Quiche with Flakey Phyllo Dough Crust</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Mix the rice, cheese and egg in a bowl.",
+              "ingredients": [
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Press the rice mixture into a pie plate, about 1/4 inch thick.",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Bake in a preheated 450F oven until the edges and bottom just start turning golden brown, about 5-7 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 450, "unit": "Fahrenheit" }
+                }
+              ],
+              "length": { "number": 7, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Mix the eggs, milk, vegetables, dill, mint, green onions, feta, salt and pepper in a large bowl.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 2045,
+                  "name": "dill",
+                  "localizedName": "dill",
+                  "image": "dill.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                },
+                {
+                  "id": 1019,
+                  "name": "feta cheese",
+                  "localizedName": "feta cheese",
+                  "image": "feta.png"
+                },
+                {
+                  "id": 1077,
+                  "name": "milk",
+                  "localizedName": "milk",
+                  "image": "milk.png"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Pour the egg mixture into the pie crust.",
+              "ingredients": [
+                {
+                  "id": 18334,
+                  "name": "pie crust",
+                  "localizedName": "pie crust",
+                  "image": "pie-crust.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Bake in a preheated 375F oven until golden brown and set in the center, about 30-35 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 375, "unit": "Fahrenheit" }
+                }
+              ],
+              "length": { "number": 35, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 81.75586700439453,
+      "spoonacularSourceUrl": "https://spoonacular.com/herbed-vegetables-in-a-feta-quiche-with-a-wild-rice-crust-646729"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 19,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 41,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 270.65,
+      "id": 662291,
+      "title": "Sun-Dried Tomato and Leek Quiche",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/KGMNJ3TN/sun-dried-tomato-and-leek-quiche",
+      "image": "https://spoonacular.com/recipeImages/662291-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Sun-Dried Tomato and Leek Quiche is a Mediterranean main course. This dairy free recipe serves 4 and costs <b>$2.71 per serving</b>. One serving contains <b>681 calories</b>, <b>20g of protein</b>, and <b>43g of fat</b>. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. 1 person found this recipe to be yummy and satisfying. If you have almond milk, leek, olive oil, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. With a spoonacular <b>score of 77%</b>, this dish is good. Similar recipes include <a href=\"https://spoonacular.com/recipes/sun-dried-tomato-leek-muffins-588598\">Sun dried tomato leek muffins</a>, <a href=\"https://spoonacular.com/recipes/artichoke-and-sun-dried-tomato-quiche-109193\">Artichoke and Sun-Dried Tomato Quiche</a>, and <a href=\"https://spoonacular.com/recipes/sausage-and-sun-dried-tomato-quiche-470172\">Sausage and Sun-Dried Tomato Quiche</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "morning meal",
+        "brunch",
+        "main dish",
+        "breakfast",
+        "dinner"
+      ],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Crust",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Preheat oven to 350F.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 350, "unit": "Fahrenheit" }
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Coat four 5-inch tart pans with cooking spray.",
+              "ingredients": [
+                {
+                  "id": 4679,
+                  "name": "cooking spray",
+                  "localizedName": "cooking spray",
+                  "image": "cooking-spray.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Pulse flour, pine nuts,almonds,baking powder",
+              "ingredients": [
+                {
+                  "id": 18369,
+                  "name": "baking powder",
+                  "localizedName": "baking powder",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 12147,
+                  "name": "pine nuts",
+                  "localizedName": "pine nuts",
+                  "image": "pine-nuts.png"
+                },
+                {
+                  "id": 12061,
+                  "name": "almonds",
+                  "localizedName": "almonds",
+                  "image": "almonds.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "In food processor until finely ground.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Whisk together almond milk, oil and salt in bowl.",
+              "ingredients": [
+                {
+                  "id": 93607,
+                  "name": "almond milk",
+                  "localizedName": "almond milk",
+                  "image": "almond-milk.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Stir in flour mixture. Press into pan.",
+              "ingredients": [
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Bake 5 minutes, then cool.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 9,
+              "step": "Filling",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Heat 1 Tbs. oil in skillet over medium heat.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "Add leeks, and saute' 8 minutes, or until softened. Set aside.",
+              "ingredients": [
+                {
+                  "id": 11246,
+                  "name": "leek",
+                  "localizedName": "leek",
+                  "image": "leeks.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 8, "unit": "minutes" }
+            },
+            {
+              "number": 12,
+              "step": "Bring large saucepan of water to a boil.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "step": "Add tofu, and simmer 5 minutes.",
+              "ingredients": [
+                {
+                  "id": 16213,
+                  "name": "tofu",
+                  "localizedName": "tofu",
+                  "image": "tofu.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 14,
+              "step": "Drain and pat dry.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 15,
+              "step": "Whisk 3 Tbsp. oil, lemon juice, miso, garlic and salt in bowl.",
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 16112,
+                  "name": "miso",
+                  "localizedName": "miso",
+                  "image": "miso.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 16,
+              "step": "Add tofu and blend with an immersion blender.",
+              "ingredients": [
+                {
+                  "id": 16213,
+                  "name": "tofu",
+                  "localizedName": "tofu",
+                  "image": "tofu.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404776,
+                  "name": "immersion blender",
+                  "localizedName": "immersion blender",
+                  "image": "immersion-blender.png"
+                }
+              ]
+            },
+            {
+              "number": 17,
+              "step": "Stir in breadcrumbs,seasonings, sun-dried tomatoes and leeks.",
+              "ingredients": [
+                {
+                  "id": 11955,
+                  "name": "sun dried tomatoes",
+                  "localizedName": "sun dried tomatoes",
+                  "image": "sundried-tomatoes.jpg"
+                },
+                {
+                  "id": 18079,
+                  "name": "breadcrumbs",
+                  "localizedName": "breadcrumbs",
+                  "image": "breadcrumbs.jpg"
+                },
+                {
+                  "id": 1042027,
+                  "name": "seasoning",
+                  "localizedName": "seasoning",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 11246,
+                  "name": "leek",
+                  "localizedName": "leek",
+                  "image": "leeks.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 18,
+              "step": "Spoon filling into crust.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 19,
+              "step": "Bake 40 minutes, or until crust is browned.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 40, "unit": "minutes" }
+            },
+            {
+              "number": 20,
+              "step": "Cool 5 minutes, then unmold.",
+              "ingredients": [],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 80.88764953613281,
+      "spoonacularSourceUrl": "https://spoonacular.com/sun-dried-tomato-and-leek-quiche-662291"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 9,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 36,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 256.71,
+      "id": 658641,
+      "title": "Roasted Ratatouille Gratin",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/VL2D5BNN/roasted-ratatouille-gratin",
+      "image": "https://spoonacular.com/recipeImages/658641-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>Mediterranean</b> recipes to your repertoire, Roasted Ratatouille Gratin might be a recipe you should try. This recipe makes 4 servings with <b>389 calories</b>, <b>14g of protein</b>, and <b>22g of fat</b> each. For <b>$2.57 per serving</b>, this recipe <b>covers 26%</b> of your daily requirements of vitamins and minerals. A mixture of canned tomatoes, olive oil, zucchini, and a handful of other ingredients are all it takes to make this recipe so delicious. 1 person were glad they tried this recipe. It works well as a reasonably priced side dish. From preparation to the plate, this recipe takes about <b>45 minutes</b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 77%</b>. This score is good. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/roasted-ratatouille-1762335\">Roasted Ratatouille</a>, <a href=\"https://spoonacular.com/recipes/roasted-ratatouille-1553119\">Roasted Ratatouille</a>, and <a href=\"https://spoonacular.com/recipes/roasted-ratatouille-104063\">Roasted Ratatouille</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["side dish"],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cut up everything and set aside until needed. Do the eggplant last, as it turns brownish after being cut.Preheat oven to 425 F.",
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 425, "unit": "Fahrenheit" }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Place whole red pepper on a baking sheet and roast for 20 minutes.Spray another baking sheet with canola oil and place eggplant on it in a single layer.",
+              "ingredients": [
+                {
+                  "id": 1014582,
+                  "name": "canola oil",
+                  "localizedName": "canola oil",
+                  "image": "vegetable-oil.jpg"
+                },
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ],
+              "length": { "number": 20, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Drizzle with 2 tablespoons olive oil and toss to combine.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Sprinkle with salt and pepper.Turn red pepper over after 20 minutes.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 20, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Add eggplant to oven, and roast until both are tender, about 15 minutes more.While the eggplant and pepper are roasting, heat 2 tablespoons olive oil in a large soup pot over medium heat. Stir in leek and shallot and cook until softened, about 5 minutes.Stir in zucchini and continue cooking, stirring occasionally, until zucchini is soft, 6-8 minutes.Stir in mushrooms, 1 teaspoon salt, dash black pepper, and wine.Simmer until mushrooms are soft, about 8 minutes.",
+              "ingredients": [
+                {
+                  "id": 1002030,
+                  "name": "black pepper",
+                  "localizedName": "black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 11260,
+                  "name": "mushrooms",
+                  "localizedName": "mushrooms",
+                  "image": "mushrooms.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 11677,
+                  "name": "shallot",
+                  "localizedName": "shallot",
+                  "image": "shallots.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 11246,
+                  "name": "leek",
+                  "localizedName": "leek",
+                  "image": "leeks.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "soup",
+                  "localizedName": "soup",
+                  "image": ""
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 36, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Remove eggplant and pepper from oven.Turn oven down to 400.Cover pepper with aluminum foil. Covering it creates steam that will loosen its skin, making the skin easier to remove. Allow pepper to cool about 10 minutes before handling.Stir in the eggplant, tomatoes and their juices, thyme, and rosemary.Bring back up to a simmer.After pepper has cooled, remove the skin, core, and seeds. Chop flesh and add to the stockpot.Simmer, covered, for 5 minutes to combine flavors.Taste, and add salt and pepper if needed.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 2036,
+                  "name": "rosemary",
+                  "localizedName": "rosemary",
+                  "image": "rosemary.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 93818,
+                  "name": "seeds",
+                  "localizedName": "seeds",
+                  "image": "sunflower-seeds.jpg"
+                },
+                {
+                  "id": 2049,
+                  "name": "thyme",
+                  "localizedName": "thyme",
+                  "image": "thyme.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "Pour everything into an 8x8 baking dish.Top with Parmesan and bread crumbs.",
+              "ingredients": [
+                {
+                  "id": 18079,
+                  "name": "breadcrumbs",
+                  "localizedName": "breadcrumbs",
+                  "image": "breadcrumbs.jpg"
+                },
+                {
+                  "id": 1033,
+                  "name": "parmesan",
+                  "localizedName": "parmesan",
+                  "image": "parmesan.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Bake until topping is browned, about 20 minutes.Allow ratatouille to stand 10 minutes before serving.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 30, "unit": "minutes" }
+            },
+            {
+              "number": 9,
+              "step": "Garnish each serving with fresh basil. Make sure to have more freshly grated Parmesan on hand to pass at the table.",
+              "ingredients": [
+                {
+                  "id": 2044,
+                  "name": "fresh basil",
+                  "localizedName": "fresh basil",
+                  "image": "fresh-basil.jpg"
+                },
+                {
+                  "id": 1033,
+                  "name": "parmesan",
+                  "localizedName": "parmesan",
+                  "image": "parmesan.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 78.76152801513672,
+      "spoonacularSourceUrl": "https://spoonacular.com/roasted-ratatouille-gratin-658641"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 19,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 39,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 245.98,
+      "id": 647687,
+      "title": "Ratatouille",
+      "readyInMinutes": 75,
+      "servings": 8,
+      "sourceUrl": "http://www.foodista.com/recipe/XGXJLGPQ/i-smell-a-ratatouille",
+      "image": "https://spoonacular.com/recipeImages/647687-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Forget going out to eat or ordering takeout every time you crave Mediterranean food. Try making Ratatouille at home. Watching your figure? This lacto ovo vegetarian recipe has <b>634 calories</b>, <b>14g of protein</b>, and <b>45g of fat</b> per serving. For <b>$2.46 per serving</b>, you get a main course that serves 8. This recipe from Foodista requires puff pastry, eggplant, olive oil, and mozzarella. 1 person were impressed by this recipe. From preparation to the plate, this recipe takes about <b>1 hour and 15 minutes</b>. Overall, this recipe earns a <b>solid spoonacular score of 74%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/ratatouilles-ratatouille-thomas-kellers-confit-byaldi-498135\">Ratatouille’s Ratatouille (Thomas Keller’s Confit Byaldi)</a>, <a href=\"https://spoonacular.com/recipes/confit-byaldi-aka-ratatouilles-ratatouille-611946\">Confit Byaldi (aka Ratatouille’s Ratatouille)</a>, and <a href=\"https://spoonacular.com/recipes/confit-byaldi-aka-ratatouilles-ratatouille-1374121\">Confit Byaldi (aka Ratatouille’s Ratatouille)</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": ["lacto ovo vegetarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat Oven to 350-37",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Defrost the puff pastry sheets and spread over baking dish.Make the tomato sauce: Cook the chopped tomatoes, tomato paste, onions, and garlic over medium heat until sauce thickens.",
+              "ingredients": [
+                {
+                  "id": 18337,
+                  "name": "puff pastry sheets",
+                  "localizedName": "puff pastry sheets",
+                  "image": "puff-pastry.png"
+                },
+                {
+                  "id": 11887,
+                  "name": "tomato paste",
+                  "localizedName": "tomato paste",
+                  "image": "tomato-paste.jpg"
+                },
+                {
+                  "id": 11549,
+                  "name": "tomato sauce",
+                  "localizedName": "tomato sauce",
+                  "image": "tomato-sauce-or-pasta-sauce.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add water or more paste as necessary.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Add in the herbs and stir. Slowly incorporate the half &amp; half and agave and adjust until you reach the desired balance of acidity and savory.Precook the eggplant. I find this step extremely important unless youre using Japanese eggplants which cook more easily.",
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 19912,
+                  "name": "agave",
+                  "localizedName": "agave",
+                  "image": "agave.png"
+                },
+                {
+                  "id": 1002044,
+                  "name": "herbs",
+                  "localizedName": "herbs",
+                  "image": "mixed-fresh-herbs.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Saute the eggplant slices in olive oil over medium to high heat and flip on other side until cooked and soft.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Spread the tomato sauce into the baking dish on top of the puff pastry. Then layer the veggies and cheese on top (eggplant, zucchini, bell pepper, cheese, and so forth).",
+              "ingredients": [
+                {
+                  "id": 11549,
+                  "name": "tomato sauce",
+                  "localizedName": "tomato sauce",
+                  "image": "tomato-sauce-or-pasta-sauce.jpg"
+                },
+                {
+                  "id": 10211821,
+                  "name": "bell pepper",
+                  "localizedName": "bell pepper",
+                  "image": "bell-pepper-orange.png"
+                },
+                {
+                  "id": 18337,
+                  "name": "puff pastry sheets",
+                  "localizedName": "puff pastry sheets",
+                  "image": "puff-pastry.png"
+                },
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Bake for about 40-50 minutes until puff pastry is golden brown and vegetables and cheese are bubbly without being overcooked.Be transported into the French countryside",
+              "ingredients": [
+                {
+                  "id": 18337,
+                  "name": "puff pastry sheets",
+                  "localizedName": "puff pastry sheets",
+                  "image": "puff-pastry.png"
+                },
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 50, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 76.68681335449219,
+      "spoonacularSourceUrl": "https://spoonacular.com/ratatouille-647687"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 63,
+      "healthScore": 15,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 196.79,
+      "id": 657939,
+      "title": "Ratatouille With Brie",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/YKQ5H3TL/ratatouille-with-brie",
+      "image": "https://spoonacular.com/recipeImages/657939-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "You can never have too many main course recipes, so give Ratatouille With Brie a try. One portion of this dish contains roughly <b>14g of protein</b>, <b>45g of fat</b>, and a total of <b>490 calories</b>. This recipe serves 4 and costs $1.97 per serving. A mixture of plum tomatoes, thyme, squash, and a handful of other ingredients are all it takes to make this recipe so scrumptious. A couple people made this recipe, and 63 would say it hit the spot. It is brought to you by Foodista. It is a <b>rather inexpensive</b> recipe for fans of Mediterranean food. It is a good option if you're following a <b>gluten free, lacto ovo vegetarian, and primal</b> diet. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 73%</b>. This score is solid. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/ratatouille-with-brie-1523131\">Ratatouille With Brie</a>, <a href=\"https://spoonacular.com/recipes/ratatouille-with-brie-1602547\">Ratatouille With Brie</a>, and <a href=\"https://spoonacular.com/recipes/ratatouilles-ratatouille-thomas-kellers-confit-byaldi-498135\">Ratatouille’s Ratatouille (Thomas Keller’s Confit Byaldi)</a>.",
+      "cuisines": ["Mediterranean", "French", "European"],
+      "dishTypes": ["side dish", "lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "lacto ovo vegetarian", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Remove outer peel from eggplant and dice into  inch pieces",
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Heat 1-2 oz. of olive oil in a heavy gauge skillet",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Saut the diced eggplant for 2-3 minutes then place on a towel to drain",
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "After draining place cooked eggplant into a small oval casserole dish",
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "name": "eggplant",
+                  "localizedName": "eggplant",
+                  "image": "eggplant.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404635,
+                  "name": "casserole dish",
+                  "localizedName": "casserole dish",
+                  "image": "casserole-dish.png"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Preheat oven to 375 F",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 375, "unit": "Fahrenheit" }
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Carefully slice the zucchini , yellow squash , and tomatoes about  inch even slices",
+              "ingredients": [
+                {
+                  "id": 10211641,
+                  "name": "yellow squash",
+                  "localizedName": "yellow squash",
+                  "image": "yellow-squash.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Slice the Brie also into  inch slices (utilizing a cheese wire makes simplifies this)",
+              "ingredients": [
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 1006,
+                  "name": "brie",
+                  "localizedName": "brie",
+                  "image": "brie.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Begin placing sliced yellow squash , zucchini , sliced Brie and tomatoes in a shingled pattern working from the outside of the casserole towards the center",
+              "ingredients": [
+                {
+                  "id": 10211641,
+                  "name": "yellow squash",
+                  "localizedName": "yellow squash",
+                  "image": "yellow-squash.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 1006,
+                  "name": "brie",
+                  "localizedName": "brie",
+                  "image": "brie.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "When all vegetables and cheese are placed in the casserole, drizzle with the remaining olive oil and sprinkle with chopped thyme",
+              "ingredients": [
+                {
+                  "id": 11583,
+                  "name": "vegetable",
+                  "localizedName": "vegetable",
+                  "image": "mixed-vegetables.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 2049,
+                  "name": "thyme",
+                  "localizedName": "thyme",
+                  "image": "thyme.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Season with salt and pepper and bake in the oven for 10-15 minutes until bubbly",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 75.37152862548828,
+      "spoonacularSourceUrl": "https://spoonacular.com/ratatouille-with-brie-657939"
+    }
+  ]

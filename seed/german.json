@@ -1,0 +1,2302 @@
+[
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 13,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 23,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 328.42,
+      "id": 1096208,
+      "title": "Spinach Goats Cheese Roulade Main Dish",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/7F6T3GFL/spinach-goats-cheese-roulade",
+      "image": "https://spoonacular.com/recipeImages/1096208-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Need a <b>gluten free, lacto ovo vegetarian, primal, and ketogenic main course</b>? Spinach Goats Cheese Roulade Main Dish could be an awesome recipe to try. For <b>$3.28 per serving</b>, this recipe <b>covers 30%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains approximately <b>19g of protein</b>, <b>31g of fat</b>, and a total of <b>363 calories</b>. This recipe serves 4. 1 person were glad they tried this recipe. Head to the store and pick up chives, heavy cream, pepper, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe is typical of European cuisine. It is brought to you by Foodista. With a spoonacular <b>score of 66%</b>, this dish is solid. Similar recipes are <a href=\"https://spoonacular.com/recipes/asparagus-cheese-strata-main-dish-409711\">Asparagus Cheese Strata Main Dish</a>, <a href=\"https://spoonacular.com/recipes/goats-cheese-spinach-pizza-1091104\">Goats Cheese & Spinach Pizza</a>, and <a href=\"https://spoonacular.com/recipes/main-dish-minestrone-167120\">Main-Dish Minestrone</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "lacto ovo vegetarian", "primal", "ketogenic"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Pre-heat the oven to 200C/400F degrees.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 200, "unit": "Celsius" }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Heat the olive oil in a frying pan on a medium heat and add the spinach. Cook until wilted and soft.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Remove from the heat, and add the salt, pepper and nutmeg. and blend until smooth with an immersion blender.",
+              "ingredients": [
+                {
+                  "id": 2025,
+                  "name": "nutmeg",
+                  "localizedName": "nutmeg",
+                  "image": "ground-nutmeg.jpg"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404776,
+                  "name": "immersion blender",
+                  "localizedName": "immersion blender",
+                  "image": "immersion-blender.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add the butter and egg yolks.In a bowl, whisk the egg whites until stiff.Grease and line a rectangle baking tray with parchment paper.Fold in the egg whites and mix thoroughly.",
+              "ingredients": [
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 1125,
+                  "name": "egg yolk",
+                  "localizedName": "egg yolk",
+                  "image": "egg-yolk.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Spread the mixture evenly in the baking tray and bake for 10-12 minutes until firm and slightly golden.As the roulade is cooking prepare the filling.In a bowl, add the goats cheese and cream. Blend until smooth, then add the chives. Stir until combined.When the roulade is ready, remove from the oven and with a knife gently loosen the edges.",
+              "ingredients": [
+                {
+                  "id": 1159,
+                  "name": "goat cheese",
+                  "localizedName": "goat cheese",
+                  "image": "goat-cheese.jpg"
+                },
+                {
+                  "id": 11156,
+                  "name": "chives",
+                  "localizedName": "chives",
+                  "image": "fresh-chives.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 1053,
+                  "name": "cream",
+                  "localizedName": "cream",
+                  "image": "fluid-cream.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404745,
+                  "name": "knife",
+                  "localizedName": "knife",
+                  "image": "chefs-knife.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": { "number": 12, "unit": "minutes" }
+            },
+            {
+              "number": 6,
+              "step": "Place the roulade on top of a large piece of parchment paper and tap the tin for the roulade to come out.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Remove the parchment paper that was used to bake the roulade from the top of it.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Spread the cheese mixture over the roulade.Using the parchment paper at the bottom from the smaller edge, roll the roulade up.",
+              "ingredients": [
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                }
+              ]
+            },
+            {
+              "number": 9,
+              "step": "Remove the parchment paper, slice into 8 slices, and serve. Each serving is 2 slices.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 68.68353271484375,
+      "spoonacularSourceUrl": "https://spoonacular.com/spinach-goats-cheese-roulade-main-dish-1096208"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 12,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 74,
+      "healthScore": 10,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 196.83,
+      "id": 649183,
+      "title": "Lamb and Fresh Goat Cheese Roulade",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/8QF2VY7K/lamb-roulade-with-fresh-goat-cheese",
+      "image": "https://spoonacular.com/recipeImages/649183-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Lamb and Fresh Goat Cheese Roulade is ready <b>in about 45 minutes</b> and is definitely a great <b>gluten free</b> option for lovers of European food. This recipe makes 6 servings with <b>373 calories</b>, <b>17g of protein</b>, and <b>33g of fat</b> each. For <b>$1.97 per serving</b>, this recipe <b>covers 17%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up cooking oil, salt and pepper to season, garlic, and a few other things to make it today. 74 people were glad they tried this recipe. It is brought to you by Foodista. It works well as a budget friendly main course. Overall, this recipe earns a <b>good spoonacular score of 65%</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/goat-cheese-and-herb-stuffed-chicken-roulade-353260\">Goat Cheese and Herb Stuffed Chicken Roulade</a>, <a href=\"https://spoonacular.com/recipes/chicken-sweet-potato-roulade-with-goat-cheese-sauce-638493\">Chicken/sweet Potato Roulade With Goat Cheese Sauce</a>, and <a href=\"https://spoonacular.com/recipes/lamb-burgers-with-goat-cheese-and-tzatziki-1305835\">Lamb Burgers with Goat Cheese and Tzatziki</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat 2 tbsp. olive oil in a saut pan over medium high heat.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add the garlic and saut for 10 seconds then add the spinach and saut only until the spinach wilts.",
+              "ingredients": [
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Set aside to cool.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Lay out the lamb loin and butterfly to create a flat piece about 6 inches wide.",
+              "ingredients": [
+                {
+                  "id": 10017026,
+                  "name": "lamb loin",
+                  "localizedName": "lamb loin",
+                  "image": "lamb-chops.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Season the loin with salt and pepper.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Squeeze the excess water from the spinach and spread evenly over the lamb loin.",
+              "ingredients": [
+                {
+                  "id": 10017026,
+                  "name": "lamb loin",
+                  "localizedName": "lamb loin",
+                  "image": "lamb-chops.png"
+                },
+                {
+                  "id": 10011457,
+                  "name": "spinach",
+                  "localizedName": "spinach",
+                  "image": "spinach.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Split the goat cheese in half lengthwise and then in half again to create 4 lengthwise quarters.",
+              "ingredients": [
+                {
+                  "id": 1159,
+                  "name": "goat cheese",
+                  "localizedName": "goat cheese",
+                  "image": "goat-cheese.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Place 2 quarters end to end on each prepared lamb loin.",
+              "ingredients": [
+                {
+                  "id": 10017026,
+                  "name": "lamb loin",
+                  "localizedName": "lamb loin",
+                  "image": "lamb-chops.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Roll and truss each prepared loin.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Preheat oven to 375F.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 375, "unit": "Fahrenheit" }
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "In a large saut pan, heat cooking oil over medium high heat and sear each loin for 3-4 minutes on all sides.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 4, "unit": "minutes" }
+            },
+            {
+              "number": 12,
+              "step": "Roast lamb loins in the oven for 10 -12 minutes until an internal temperature of 120F is reached.",
+              "ingredients": [
+                {
+                  "id": 10017224,
+                  "name": "lamb",
+                  "localizedName": "lamb",
+                  "image": "lamb-shanks.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 120, "unit": "Fahrenheit" }
+                }
+              ],
+              "length": { "number": 12, "unit": "minutes" }
+            },
+            {
+              "number": 13,
+              "step": "Remove from the oven and let rest for 10 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 14,
+              "step": "Remove string and slice into  medallions.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 15,
+              "step": "Divide among 2 plates and serve.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 66.1575698852539,
+      "spoonacularSourceUrl": "https://spoonacular.com/lamb-and-fresh-goat-cheese-roulade-649183"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 19,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 213.23,
+      "id": 644482,
+      "title": "German Meatloaf Falscher Hase",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/74WFPHJV/german-meatloaf-falscher-hase",
+      "image": "https://spoonacular.com/recipeImages/644482-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you have roughly <b>45 minutes</b> to spend in the kitchen, German Meatloaf Falscher Hase might be a spectacular <b>dairy free</b> recipe to try. This recipe serves 4. For <b>$2.13 per serving</b>, this recipe <b>covers 24%</b> of your daily requirements of vitamins and minerals. This main course has <b>381 calories</b>, <b>39g of protein</b>, and <b>21g of fat</b> per serving. Head to the store and pick up eggs, bread crumbs, parsley, and a few other things to make it today. This recipe from Foodista has 1 fans. It is a <b>budget friendly</b> recipe for fans of European food. Overall, this recipe earns a <b>solid spoonacular score of 61%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/moms-meatloaf-with-caramelized-glaze-german-falsche-hase-146777\">Mom's Meatloaf With Caramelized Glaze (German Falsche Hase)</a>, <a href=\"https://spoonacular.com/recipes/german-applesauce-meatloaf-146848\">German Applesauce Meatloaf</a>, and <a href=\"https://spoonacular.com/recipes/classic-meatloaf-the-last-meatloaf-youll-ever-need-1218557\">Classic Meatloaf – The last meatloaf you’ll ever need</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Thoroughly mix ground meats, onion, bread crumbs, cold water, and eggs.Season the mixture with salt, paprika, mustard, and parsley. Blend ingredients thoroughly and shape into a loaf.",
+              "ingredients": [
+                {
+                  "id": 18079,
+                  "name": "breadcrumbs",
+                  "localizedName": "breadcrumbs",
+                  "image": "breadcrumbs.jpg"
+                },
+                {
+                  "id": 2046,
+                  "name": "mustard",
+                  "localizedName": "mustard",
+                  "image": "regular-mustard.jpg"
+                },
+                {
+                  "id": 2028,
+                  "name": "paprika",
+                  "localizedName": "paprika",
+                  "image": "paprika.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Place the loaf in a baking pan and bake in a preheated oven for about 45 minutes. While meat is baking, gradually pour hot beef broth over the top of the meatloaf and basting occasionally.",
+              "ingredients": [
+                {
+                  "id": 6008,
+                  "name": "beef broth",
+                  "localizedName": "beef broth",
+                  "image": "beef-broth.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 45, "unit": "minutes" }
+            },
+            {
+              "number": 3,
+              "step": "Serve with German bread dumplings.",
+              "ingredients": [
+                {
+                  "id": 18064,
+                  "name": "bread",
+                  "localizedName": "bread",
+                  "image": "white-bread.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 64.96106719970703,
+      "spoonacularSourceUrl": "https://spoonacular.com/german-meatloaf-falscher-hase-644482"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 31,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 33,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 696.32,
+      "id": 656817,
+      "title": "Pork Schnitzel And Apple Salad",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/S7XYHPMB/pork-schnitzel-and-apple-salad",
+      "summary": "Pork Schnitzel And Apple Salad is an European recipe that serves 4. For <b>$6.96 per serving</b>, this recipe <b>covers 37%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains approximately <b>76g of protein</b>, <b>74g of fat</b>, and a total of <b>1119 calories</b>. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. 1 person were glad they tried this recipe. A mixture of some wholegrain/creamy mustard sauce, apple, some mayonnaise, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is a good option if you're following a <b>dairy free</b> diet. It works well as a main course. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 74%</b>, which is solid. <a href=\"https://spoonacular.com/recipes/pork-schnitzel-and-apple-salad-1245291\">Pork Schnitzel And Apple Salad</a>, <a href=\"https://spoonacular.com/recipes/apple-chip-crusted-pork-schnitzel-498280\">Apple Chip Crusted Pork Schnitzel</a>, and <a href=\"https://spoonacular.com/recipes/pork-schnitzel-and-apple-cider-braised-red-cabbage-498864\">Pork Schnitzel and Apple Cider Braised Red Cabbage</a> are very similar to this recipe.",
+      "cuisines": ["German", "European"],
+      "dishTypes": [
+        "side dish",
+        "lunch",
+        "main course",
+        "salad",
+        "main dish",
+        "dinner"
+      ],
+      "diets": ["dairy free"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Using a meat mallet, pound pork slices evenly to 5mm thick. Marinate it with cornflour, cooking wine and lightly beaten egg for about 3 - 5 minutes.",
+              "ingredients": [
+                {
+                  "id": 10073,
+                  "name": "cooked pork",
+                  "localizedName": "cooked pork",
+                  "image": "pulled-pork.png"
+                },
+                {
+                  "id": 20027,
+                  "name": "corn starch",
+                  "localizedName": "corn starch",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 3846,
+                  "name": "meat tenderizer",
+                  "localizedName": "meat tenderizer",
+                  "image": "meat-mallet.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Coat marinated pork slices evenly with breadcrumbs by pressing the meat down against the crumbs.",
+              "ingredients": [
+                {
+                  "id": 18079,
+                  "name": "breadcrumbs",
+                  "localizedName": "breadcrumbs",
+                  "image": "breadcrumbs.jpg"
+                },
+                {
+                  "id": 10073,
+                  "name": "cooked pork",
+                  "localizedName": "cooked pork",
+                  "image": "pulled-pork.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Heat oil in a frying pan on medium heat, cook pork schnitzel for 3 minutes on each side or until golden and cooked through.",
+              "ingredients": [
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Drain well on paper towels.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 405895,
+                  "name": "paper towels",
+                  "localizedName": "paper towels",
+                  "image": "paper-towels.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Meanwhile, toss the pre-packed salad with accompany dressing before transferring them to a serving plate and top with apple slices. (you can soak apple slices with some lightly salted water to prevent it from oxidized and turns brown)",
+              "ingredients": [
+                {
+                  "id": 9003,
+                  "name": "apple",
+                  "localizedName": "apple",
+                  "image": "apple.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Next thickly slice pork and arrange on salad and drizzle mustard dressing over pork and serve.",
+              "ingredients": [
+                {
+                  "id": 2046,
+                  "name": "mustard",
+                  "localizedName": "mustard",
+                  "image": "regular-mustard.jpg"
+                },
+                {
+                  "id": 10010219,
+                  "name": "pork",
+                  "localizedName": "pork",
+                  "image": "pork-tenderloin-raw.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 64.44158172607422,
+      "spoonacularSourceUrl": "https://spoonacular.com/pork-schnitzel-and-apple-salad-656817",
+      "image": "https://spoonacular.com/recipeImages/656817-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 4,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 15,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 183.99,
+      "id": 1095834,
+      "title": "German Braised Red Cabbage",
+      "readyInMinutes": 75,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/GRZ84BZZ/german-red-cabbage",
+      "image": "https://spoonacular.com/recipeImages/1095834-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>European</b> recipes to your repertoire, German Braised Red Cabbage might be a recipe you should try. One serving contains <b>230 calories</b>, <b>4g of protein</b>, and <b>3g of fat</b>. This gluten free and lacto ovo vegetarian recipe serves 4 and costs <b>$1.84 per serving</b>. 1 person has made this recipe and would make it again. It works best as a side dish, and is done in about <b>1 hour and 15 minutes</b>. A mixture of apples, sea salt and pepper, bay leaves, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. With a spoonacular <b>score of 53%</b>, this dish is pretty good. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/german-braised-red-cabbage-625159\">German Braised Red Cabbage</a>, <a href=\"https://spoonacular.com/recipes/german-braised-red-cabbage-1212141\">German Braised Red Cabbage</a>, and <a href=\"https://spoonacular.com/recipes/blaukraut-german-braised-red-cabbage-680918\">Blaukraut (German Braised Red Cabbage)</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["side dish"],
+      "diets": ["gluten free", "lacto ovo vegetarian"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Shred the red cabbage very finely. Peel the apples and cut them into small cubes.Melt the butter in a large pan.",
+              "ingredients": [
+                {
+                  "id": 11112,
+                  "name": "red cabbage",
+                  "localizedName": "red cabbage",
+                  "image": "red-cabbage.png"
+                },
+                {
+                  "id": 9003,
+                  "name": "apple",
+                  "localizedName": "apple",
+                  "image": "apple.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Sprinkle the sugar in the pot and let caramelize.",
+              "ingredients": [
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add the red cabbage and apples.",
+              "ingredients": [
+                {
+                  "id": 11112,
+                  "name": "red cabbage",
+                  "localizedName": "red cabbage",
+                  "image": "red-cabbage.png"
+                },
+                {
+                  "id": 9003,
+                  "name": "apple",
+                  "localizedName": "apple",
+                  "image": "apple.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Saute lightly for about 5 minutes, while stirring quite often.",
+              "ingredients": [],
+              "equipment": [],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Add the spices, wine and vinegar.",
+              "ingredients": [
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                },
+                {
+                  "id": 2035,
+                  "name": "spices",
+                  "localizedName": "spices",
+                  "image": "spices.png"
+                },
+                {
+                  "id": 14084,
+                  "name": "wine",
+                  "localizedName": "wine",
+                  "image": "red-wine.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Add about 1 teaspoon salt.Cover the pot, turn down the heat and let the cabbage simmer for 1 hour. Stir from time to time and add more red wine if necessary (I didn't need to, but keep an eye on the pot, it should not get too dry).Adjust the taste with salt and pepper and some more sugar if necessary.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 14096,
+                  "name": "red wine",
+                  "localizedName": "red wine",
+                  "image": "red-wine.jpg"
+                },
+                {
+                  "id": 11109,
+                  "name": "cabbage",
+                  "localizedName": "cabbage",
+                  "image": "cabbage.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ],
+              "length": { "number": 60, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 57.30903244018555,
+      "spoonacularSourceUrl": "https://spoonacular.com/german-braised-red-cabbage-1095834"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 4,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 13,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 215.73,
+      "id": 638493,
+      "title": "Chicken/sweet Potato Roulade With Goat Cheese Sauce",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/TLVKXWJF/chickensweet-potato-roulade-with-goat-cheese-sauce",
+      "image": "https://spoonacular.com/recipeImages/638493-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken/sweet Potato Roulade With Goat Cheese Sauce might be just the <b>European</b> recipe you are searching for. This gluten free and primal recipe serves 2 and costs <b>$2.16 per serving</b>. One portion of this dish contains around <b>20g of protein</b>, <b>8g of fat</b>, and a total of <b>231 calories</b>. Head to the store and pick up baked sweet potato, chicken broth, ground pepper, and a few other things to make it today. This recipe from Foodista has 1 fans. It works well as a main course. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 54%</b>. This score is solid. Similar recipes are <a href=\"https://spoonacular.com/recipes/goat-cheese-and-herb-stuffed-chicken-roulade-353260\">Goat Cheese and Herb Stuffed Chicken Roulade</a>, <a href=\"https://spoonacular.com/recipes/sweet-potato-and-garlicky-swiss-chard-bucatini-with-blood-orange-goat-cheese-sauce-871708\">Sweet Potato and Garlicky Swiss Chard Bucatini with Blood Orange Goat Cheese Sauce</a>, and <a href=\"https://spoonacular.com/recipes/quick-chicken-sweet-potato-kale-skillet-with-cranberries-and-goat-cheese-1423833\">Quick Chicken Sweet Potato Kale Skillet with Cranberries and Goat Cheese</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Coat a skillet with non-stick spray and saute onion and basil until soft.",
+              "ingredients": [
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add sweet potato and cook until warmed through.",
+              "ingredients": [
+                {
+                  "id": 11507,
+                  "name": "sweet potato",
+                  "localizedName": "sweet potato",
+                  "image": "sweet-potato.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Transfer to a food processor or blender and process until just blended.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404771,
+                  "name": "food processor",
+                  "localizedName": "food processor",
+                  "image": "food-processor.png"
+                },
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Combine Paprika, salt and pepper in a a small bowl and rub over smooth side of chicken breast halves. Turn over, distribute sweet potato mixture between breasts and roll them tightly.Spray a skillet with non-stick and heat over medium-high heat.",
+              "ingredients": [
+                {
+                  "id": 1045062,
+                  "name": "chicken breast halves",
+                  "localizedName": "chicken breast halves",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11507,
+                  "name": "sweet potato",
+                  "localizedName": "sweet potato",
+                  "image": "sweet-potato.png"
+                },
+                {
+                  "id": 2028,
+                  "name": "paprika",
+                  "localizedName": "paprika",
+                  "image": "paprika.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                },
+                {
+                  "id": 1012034,
+                  "name": "dry seasoning rub",
+                  "localizedName": "dry seasoning rub",
+                  "image": "seasoning.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Add chicken with the overlapping side down and cover. Turn regularly, cooking each side about 2 minutes.Meanwhile, whisk together warmed stock, goat cheese and salt and pepper to taste.Plate chicken, top with sauce and serve.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 1159,
+                  "name": "goat cheese",
+                  "localizedName": "goat cheese",
+                  "image": "goat-cheese.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "chicken",
+                  "localizedName": "chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 1006615,
+                  "name": "stock",
+                  "localizedName": "stock",
+                  "image": "chicken-broth.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                }
+              ],
+              "length": { "number": 2, "unit": "minutes" }
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 56.951377868652344,
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-sweet-potato-roulade-with-goat-cheese-sauce-638493"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 11,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 244.63,
+      "id": 1096205,
+      "title": "Zucchini Feta Roulade",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "https://www.foodista.com/recipe/3FSHFTPZ/zucchini-feta-roulade",
+      "image": "https://spoonacular.com/recipeImages/1096205-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Zucchini Feta Roulade might be just the <b>European</b> recipe you are searching for. This gluten free, lacto ovo vegetarian, and primal recipe serves 2 and costs <b>$2.45 per serving</b>. One portion of this dish contains about <b>24g of protein</b>, <b>29g of fat</b>, and a total of <b>442 calories</b>. If you have feta cheese, eggs, baking powder, and a few other ingredients on hand, you can make it. This recipe is liked by 1 foodies and cooks. From preparation to the plate, this recipe takes around <b>45 minutes</b>. It works well as a reasonably priced main course. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 49%</b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/turkey-breast-roulade-with-green-chiles-and-feta-187656\">Turkey Breast Roulade with Green Chiles and Feta</a>, <a href=\"https://spoonacular.com/recipes/zucchini-fritters-with-feta-1026011\">Zucchini Fritters with Feta</a>, and <a href=\"https://spoonacular.com/recipes/zucchini-patties-with-feta-604309\">Zucchini Patties with Feta</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+      "diets": ["gluten free", "lacto ovo vegetarian", "primal"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat the oven to 200C/400F degrees.Grease and line a rectangle baking tray with parchment paper.Grate zucchini.In a bowl, whisk the egg whites until stiff peaks.In another bowl, beat the egg yolks and add the grated zucchini, coconut flour, mint, baking powder, garlic powder, salt and pepper. Stir thoroughly.Gently fold in the egg whites until the mixture is combined.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 18369,
+                  "name": "baking powder",
+                  "localizedName": "baking powder",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 93747,
+                  "name": "coconut flour",
+                  "localizedName": "coconut flour",
+                  "image": "coconut-flour-or-other-gluten-free-flour.jpg"
+                },
+                {
+                  "id": 1022020,
+                  "name": "garlic powder",
+                  "localizedName": "garlic powder",
+                  "image": "garlic-powder.png"
+                },
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 1125,
+                  "name": "egg yolk",
+                  "localizedName": "egg yolk",
+                  "image": "egg-yolk.jpg"
+                },
+                {
+                  "id": 11477,
+                  "name": "zucchini",
+                  "localizedName": "zucchini",
+                  "image": "zucchini.jpg"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 200, "unit": "Celsius" }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Pour the mixture into the tray and spoon out evenly.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Bake for 15 minutes until firm.Whilst the roulade is baking make the filling by blending the cream cheese and feta together until its smooth. I use a spoon to beat the mixture.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                },
+                {
+                  "id": 1019,
+                  "name": "feta cheese",
+                  "localizedName": "feta cheese",
+                  "image": "feta.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 15, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Add the red pepper and mix until combined.Once the roulade is baked, place it onto a parchment sheet on the kitchen counter. Allow to cool for about 2-3 minutes as you don't want to burn your hands rolling it, nor want the filling to melt and ooze out when you roll it up.",
+              "ingredients": [
+                {
+                  "id": 11821,
+                  "name": "red pepper",
+                  "localizedName": "red pepper",
+                  "image": "red-pepper.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 3, "unit": "minutes" }
+            },
+            {
+              "number": 5,
+              "step": "Remove the top layer of parchment paper (the one that was used during cooking).",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Spread the filling evenly across the roulade. It can be a bit rough as it will even out during rolling.From the small edge of the roulade and using the parchment paper underneath, gently roll the roulade up into a swiss roll shape.Trim off any edges for neatness.Eat and enjoy!",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 53.62760925292969,
+      "spoonacularSourceUrl": "https://spoonacular.com/zucchini-feta-roulade-1096205"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 25,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 6,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 186.26,
+      "id": 644504,
+      "title": "German White Chocolate Cake",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/WZJHSC7P/german-white-chocolate-cake",
+      "image": "https://spoonacular.com/recipeImages/644504-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe German White Chocolate Cake can be made <b>in about 45 minutes</b>. For <b>$1.86 per serving</b>, this recipe <b>covers 16%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>14g of protein</b>, <b>46g of fat</b>, and a total of <b>584 calories</b>. This recipe serves 6. Head to the store and pick up coconut, vanillan extract, chocolate, and a few other things to make it today. 1 person were impressed by this recipe. It works well as an European dessert. It is brought to you by Foodista. Overall, this recipe earns a <b>rather bad spoonacular score of 38%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/white-german-chocolate-cake-1060223\">White German Chocolate Cake</a>, <a href=\"https://spoonacular.com/recipes/german-chocolate-cake-877225\">German Chocolate Cake</a>, and <a href=\"https://spoonacular.com/recipes/german-chocolate-cake-60888\">German Chocolate Cake</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["dessert"],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            { "number": 1, "step": "CAKE", "ingredients": [], "equipment": [] },
+            {
+              "number": 2,
+              "step": "Position the racks in the upper and lower thirds and preheat oven to 350 deg F. Lightly butter the bottom and sides of three 8 inch round cake pans. Line the pans with parchment paper. Dust the bottom and sides with flour; tap out the excess.",
+              "ingredients": [
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Into a medium bowl, sift the cake flour and the baking soda. Using an electric mixer set at mdeium speed, cream the butter and the sugar in a large bowl until light and fluffy, about 5 minutes. Beat in one egg yolk at a time, blending well after each addition. Beat in the melted white chocolate mixture and the vanilla. At low speed, blend in the sifted flour mixture alternately with the buttermilk; do not overbeat. Fold in the coconut and pecans.",
+              "ingredients": [
+                {
+                  "id": 19087,
+                  "name": "white chocolate",
+                  "localizedName": "white chocolate",
+                  "image": "white-chocolate.jpg"
+                },
+                {
+                  "id": 18372,
+                  "name": "baking soda",
+                  "localizedName": "baking soda",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 1230,
+                  "name": "buttermilk",
+                  "localizedName": "buttermilk",
+                  "image": "buttermilk.jpg"
+                },
+                {
+                  "id": 10020129,
+                  "name": "cake flour",
+                  "localizedName": "cake flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 1125,
+                  "name": "egg yolk",
+                  "localizedName": "egg yolk",
+                  "image": "egg-yolk.jpg"
+                },
+                {
+                  "id": 12104,
+                  "name": "coconut",
+                  "localizedName": "coconut",
+                  "image": "coconut.jpg"
+                },
+                {
+                  "id": 1052050,
+                  "name": "vanilla",
+                  "localizedName": "vanilla",
+                  "image": "vanilla.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 12142,
+                  "name": "pecans",
+                  "localizedName": "pecans",
+                  "image": "pecans.jpg"
+                },
+                {
+                  "id": 1053,
+                  "name": "cream",
+                  "localizedName": "cream",
+                  "image": "fluid-cream.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404628,
+                  "name": "hand mixer",
+                  "localizedName": "hand mixer",
+                  "image": "hand-mixer.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": { "number": 5, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "Beat the egg whites until stiff peaks form. Blend 1/3 of the egg whites into the cake mixture to lighten it; carefully fold in the remaining egg whites. Spoon the batter into the prepared pans.",
+              "ingredients": [
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Bake until the cake springs back when touched in the center and a cake tester inserted in the center of the pans comes out clean, about 35 to 40 minutes.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 35, "unit": "minutes" }
+            }
+          ]
+        },
+        {
+          "name": "Transfer the cakes in the pans to wire racks and cool 10 minutes. Invert the cakes onto the wire racks, carefully peel off the parchment paper, and cool completely.FOR THE FROSTING",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a heavy medium saucepan over medium heat, combine the evaporated milk, sugar, butter, and egg yolks. Simmer for 10 minutes, stirring constantly. Do not let mixture boil fast; lower the heat if necessary.",
+              "ingredients": [
+                {
+                  "id": 1214,
+                  "name": "evaporated milk",
+                  "localizedName": "evaporated milk",
+                  "image": "evaporated-milk.png"
+                },
+                {
+                  "id": 1125,
+                  "name": "egg yolk",
+                  "localizedName": "egg yolk",
+                  "image": "egg-yolk.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ],
+              "length": { "number": 10, "unit": "minutes" }
+            },
+            {
+              "number": 2,
+              "step": "Remove from heat and stir in the vanilla, pecans, and coconut. Plance the saucepan into a bowl filled with ice and stir constantly until the frosting is cool and slightly thickened.",
+              "ingredients": [
+                {
+                  "id": 19230,
+                  "name": "frosting",
+                  "localizedName": "frosting",
+                  "image": "vanilla-frosting.png"
+                },
+                {
+                  "id": 12104,
+                  "name": "coconut",
+                  "localizedName": "coconut",
+                  "image": "coconut.jpg"
+                },
+                {
+                  "id": 1052050,
+                  "name": "vanilla",
+                  "localizedName": "vanilla",
+                  "image": "vanilla.jpg"
+                },
+                {
+                  "id": 12142,
+                  "name": "pecans",
+                  "localizedName": "pecans",
+                  "image": "pecans.jpg"
+                },
+                {
+                  "id": 10014412,
+                  "name": "ice",
+                  "localizedName": "ice",
+                  "image": "ice-cubes.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Place a cake layer on a serving platter.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Spread 1/4 of the frosting evenly over the cake layer, making sure to spread it all the way to the edges. Top with the second layer, and spread with 1/4 of the frosting. Top with the third cake layer. Evenly frost the top and sides of the cake with the remaining frosting.",
+              "ingredients": [
+                {
+                  "id": 19230,
+                  "name": "frosting",
+                  "localizedName": "frosting",
+                  "image": "vanilla-frosting.png"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 44.157501220703125,
+      "spoonacularSourceUrl": "https://spoonacular.com/german-white-chocolate-cake-644504"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 8,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 15,
+      "healthScore": 3,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 57.05,
+      "id": 644488,
+      "title": "German Rhubarb Cake with Meringue",
+      "readyInMinutes": 45,
+      "servings": 12,
+      "sourceUrl": "https://www.foodista.com/recipe/68PX6QXK/german-rhubarb-cake-with-meringue",
+      "image": "https://spoonacular.com/recipeImages/644488-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "German Rhubarb Cake with Meringue requires around <b>45 minutes</b> from start to finish. For <b>57 cents per serving</b>, this recipe <b>covers 6%</b> of your daily requirements of vitamins and minerals. One serving contains <b>201 calories</b>, <b>5g of protein</b>, and <b>4g of fat</b>. This recipe serves 12. <b>Mother's Day</b> will be even more special with this recipe. A mixture of roasted almonds, baking powder, sugar, and a handful of other ingredients are all it takes to make this recipe so scrumptious. 15 people were glad they tried this recipe. It works well as a dessert. It is a good option if you're following a <b>dairy free and lacto ovo vegetarian</b> diet. It is brought to you by Foodista. It is a <b>very reasonably priced</b> recipe for fans of European food. Overall, this recipe earns a <b>not so outstanding spoonacular score of 37%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/german-rhubarb-cake-with-meringue-1200527\">German Rhubarb Cake with Meringue</a>, <a href=\"https://spoonacular.com/recipes/rhubarb-meringue-cake-381275\">Rhubarb Meringue Cake</a>, and <a href=\"https://spoonacular.com/recipes/rhubarb-meringue-tart-72822\">Rhubarb Meringue Tart</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": ["dessert"],
+      "diets": ["dairy free", "lacto ovo vegetarian"],
+      "occasions": ["spring", "mother's day"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat the oven to 350F Convection. Grease a round 26 cm Spring pan (9 1/2 inch).",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": { "number": 350, "unit": "Fahrenheit" }
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Wash, dry and peel the rhubarb.",
+              "ingredients": [
+                {
+                  "id": 9307,
+                  "name": "rhubarb",
+                  "localizedName": "rhubarb",
+                  "image": "rhubarb.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Cut it in little pieces, mix with 2 tablespoon of sugar and let sit for at least 1/2 hour. It will extract a lot of water that needs to be drained. Pat rhubarb dry for further use.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "extract",
+                  "localizedName": "extract",
+                  "image": ""
+                },
+                {
+                  "id": 9307,
+                  "name": "rhubarb",
+                  "localizedName": "rhubarb",
+                  "image": "rhubarb.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [],
+              "length": { "number": 120, "unit": "minutes" }
+            },
+            {
+              "number": 4,
+              "step": "In a kitchen machine beat together butter, sugar and vanilla extract until the butter is fluffy and the sugar is dissolved. Put in the eggs, one at a time and mix well.",
+              "ingredients": [
+                {
+                  "id": 2050,
+                  "name": "vanilla extract",
+                  "localizedName": "vanilla extract",
+                  "image": "vanilla-extract.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "In a separate bowl sift together flour, ground almonds, salt and baking powder, add slowly to the egg mixture. Dont over mix.",
+              "ingredients": [
+                {
+                  "id": 93740,
+                  "name": "almond meal",
+                  "localizedName": "almond meal",
+                  "image": "almond-meal-or-almond-flour.jpg"
+                },
+                {
+                  "id": 18369,
+                  "name": "baking powder",
+                  "localizedName": "baking powder",
+                  "image": "white-powder.jpg"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Fill dough into the spring pan, top with dried rhubarb and bake for 25 min.",
+              "ingredients": [
+                {
+                  "id": 9307,
+                  "name": "rhubarb",
+                  "localizedName": "rhubarb",
+                  "image": "rhubarb.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": { "number": 25, "unit": "minutes" }
+            },
+            {
+              "number": 7,
+              "step": "In the mean time prepare the meringue/ baiser topping. Beat egg whites until stiff peaks form. Slowly add the sugar until meringue is firm and shiny.",
+              "ingredients": [
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Spread the meringue evenly over the rhubarb and decorate with almond slices. Return to the oven for another 15 min. Cover the cake with aluminum foil after 5 min. in case the meringue does turn too dark.",
+              "ingredients": [
+                {
+                  "id": 10112061,
+                  "name": "sliced almonds",
+                  "localizedName": "sliced almonds",
+                  "image": "almonds.jpg"
+                },
+                {
+                  "id": 9307,
+                  "name": "rhubarb",
+                  "localizedName": "rhubarb",
+                  "image": "rhubarb.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": { "number": 20, "unit": "minutes" }
+            },
+            {
+              "number": 9,
+              "step": "Cool completely before removing the cake from the pan.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 41.88862228393555,
+      "spoonacularSourceUrl": "https://spoonacular.com/german-rhubarb-cake-with-meringue-644488"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 5,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 2,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 40.26,
+      "id": 643851,
+      "title": "Frikadellen German Meat Patties",
+      "readyInMinutes": 45,
+      "servings": 18,
+      "sourceUrl": "http://www.foodista.com/recipe/WNJZYWJ3/frikadellen-german-meat-patties",
+      "image": "https://spoonacular.com/recipeImages/643851-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Frikadellen German Meat Patties takes approximately <b>45 minutes</b> from beginning to end. For <b>40 cents per serving</b>, this recipe <b>covers 7%</b> of your daily requirements of vitamins and minerals. This recipe makes 18 servings with <b>150 calories</b>, <b>9g of protein</b>, and <b>10g of fat</b> each. This recipe from Foodista requires basil, onions, egg, and ground meat. It works well as an European hor d'oeuvre. 1 person has made this recipe and would make it again. Taking all factors into account, this recipe <b>earns a spoonacular score of 25%</b>, which is not so outstanding. Similar recipes are <a href=\"https://spoonacular.com/recipes/german-hamburgers-frikadellen-470908\">German Hamburgers (Frikadellen)</a>, <a href=\"https://spoonacular.com/recipes/german-potato-patties-410755\">German Potato Patties</a>, and <a href=\"https://spoonacular.com/recipes/buckwheat-meat-patties-709274\">Buckwheat Meat Patties</a>.",
+      "cuisines": ["German", "European"],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Peel and dice the onions, then saute in oil until transparent.",
+              "ingredients": [
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Add sauteed onions to ground meat in a mixing bowl. Stir together breadcrumbs and milk and add to meat mixture.",
+              "ingredients": [
+                {
+                  "id": 18079,
+                  "name": "breadcrumbs",
+                  "localizedName": "breadcrumbs",
+                  "image": "breadcrumbs.jpg"
+                },
+                {
+                  "id": 10023572,
+                  "name": "ground beef",
+                  "localizedName": "ground beef",
+                  "image": "fresh-ground-beef.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1077,
+                  "name": "milk",
+                  "localizedName": "milk",
+                  "image": "milk.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405907,
+                  "name": "mixing bowl",
+                  "localizedName": "mixing bowl",
+                  "image": "mixing-bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add egg, basil, salt and pepper and mix well. Dampen hands and form meat mixture into palm-sized patties.Preheat non-stick skillet with a little oil. Pan-fry the meat patties over medium high heat until browned on both sides.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Serve them with salad, fries and tzatziki. Alternatively they can be served with German dumplings and black pepper sauce.",
+              "ingredients": [
+                {
+                  "id": 1002030,
+                  "name": "black pepper",
+                  "localizedName": "black pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 93777,
+                  "name": "tzatziki",
+                  "localizedName": "tzatziki",
+                  "image": "raita-or-tzaziki.png"
+                },
+                {
+                  "id": 11408,
+                  "name": "french fries",
+                  "localizedName": "french fries",
+                  "image": "french-fries-isolated.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularScore": 32.6965446472168,
+      "spoonacularSourceUrl": "https://spoonacular.com/frikadellen-german-meat-patties-643851"
+    }
+  ]
