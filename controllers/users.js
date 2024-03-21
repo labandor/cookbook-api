@@ -31,7 +31,7 @@ export const signUp = async (req, res) => {
     await user.save();
 
     const payload = {
-      _id: user._id,
+      id: user._id,
       username: user.username,
       email: user.email,
       exp: parseInt(exp.getTime() / 1000),
