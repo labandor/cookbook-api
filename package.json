@@ -2,9 +2,8 @@
   "name": "cookbook-api",
   "version": "1.0.0",
   "description": "This is an API created with the idea of creating a site to be able to find recipes for those days where you lack inspiration. A space for people to share their creations and leave feedback of their own experiences. Cooking can be hard. Why not make it just that little bit easier.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js",
     "db:seed": "node seed/data.js"
