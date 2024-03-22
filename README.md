@@ -10,29 +10,68 @@ Using this API you will be able to access a wide variety of recipes via differen
 
 - [Booker Ngoon](https://github.com/bngoon)
 - [Aleksandre Chkhikvishvili](https://github.com/AleksandreChkhikvishvili)
-- [Albert Rocha](https://github.com/ChrisopherRocha)
 - [Luke Bandeen](https://github.com/labandor)
+
+## Technologies Used
+
+```bash
+Node.js
+```
+```bash
+MongoDB
+```
+```bash
+Express.js
+```
+```bash
+Mongoose
+```
+```bash
+Postman
+```
+```bash
+Heroku
+```
 
 
 ## Schema
-
-
+Recipe Schema
+![Alt text](<Screenshot from 2024-03-22 15-44-27.png>)
+User Schema
+![Alt text](<Screenshot from 2024-03-22 15-48-19.png>)
 ## Installation
 
-Install my-project with npm
+o Install API
+Clone this repository to your terminal
 
 ```bash
-  npm i
-  npm run db:seed
+npm init -y
 ```
-To install the dependencies
+Install dependencies 
+
+  ```bash
+npm install
+  ```  
+Start the server
+
+```bash
+npm start
+```
+Or start the server in developer mode
+
+```bash
+npm run dev
+```
+Seed data
+
+```bash
+npm run db:data.js
+```
     
 ## Deployment
 
-To deploy this project run:
-
 ```bash
-  npm run dev
+  https://chefskisscookbook-1a8ad3f4b614.herokuapp.com/api/recipies
 ```
 
 
